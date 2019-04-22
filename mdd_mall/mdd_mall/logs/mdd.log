@@ -2075,3 +2075,24 @@ INFO 2019-04-21 20:58:50,218 basehttp 124 "POST /register/ HTTP/1.1" 302 0
 INFO 2019-04-21 20:58:50,227 basehttp 124 "GET / HTTP/1.1" 200 25122
 WARNING 2019-04-21 20:58:50,337 base 152 Not Found: /carts/simple/
 WARNING 2019-04-21 20:58:50,338 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 3068
+INFO 2019-04-22 10:13:39,654 basehttp 124 "GET / HTTP/1.1" 200 25122
+INFO 2019-04-22 10:13:39,701 basehttp 124 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+WARNING 2019-04-22 10:13:39,932 base 152 Not Found: /carts/simple/
+WARNING 2019-04-22 10:13:39,932 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 3068
+WARNING 2019-04-22 10:13:39,962 base 152 Not Found: /favicon.ico
+WARNING 2019-04-22 10:13:39,963 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 3062
+INFO 2019-04-22 10:13:42,643 basehttp 124 "GET /register/ HTTP/1.1" 200 5287
+INFO 2019-04-22 10:13:43,120 basehttp 124 "GET /image_codes/a63edf1e-a813-433d-9dfd-4e6b06591328/ HTTP/1.1" 200 3010
+INFO 2019-04-22 10:13:51,259 basehttp 124 "GET /usernames/admin2/count/ HTTP/1.1" 200 41
+INFO 2019-04-22 10:13:57,395 basehttp 124 "GET /mobiles/13818510759/count/ HTTP/1.1" 200 41
+INFO 2019-04-22 10:15:53,133 basehttp 124 "GET /register/ HTTP/1.1" 200 5287
+INFO 2019-04-22 10:15:53,183 basehttp 124 "GET /image_codes/3d6868dc-bb39-41bc-beac-40587bc580c0/ HTTP/1.1" 200 3247
+INFO 2019-04-22 10:15:56,037 basehttp 124 "GET /usernames/admin2/count/ HTTP/1.1" 200 41
+INFO 2019-04-22 10:15:59,890 basehttp 124 "GET /mobiles/13818510759/count/ HTTP/1.1" 200 41
+INFO 2019-04-22 10:16:04,159 views 56 241743
+INFO 2019-04-22 10:16:04,165 basehttp 124 "GET /mobiles/13818510759/count/ HTTP/1.1" 200 41
+INFO 2019-04-22 10:16:04,186 basehttp 124 "GET /sms_codes/13818510759/?image_code=khkr&image_code_id=3d6868dc-bb39-41bc-beac-40587bc580c0 HTTP/1.1" 200 29
+INFO 2019-04-22 10:16:25,637 basehttp 124 "POST /register/ HTTP/1.1" 302 0
+INFO 2019-04-22 10:16:25,640 basehttp 124 "GET / HTTP/1.1" 200 25122
+WARNING 2019-04-22 10:16:25,755 base 152 Not Found: /carts/simple/
+WARNING 2019-04-22 10:16:25,756 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 3068
