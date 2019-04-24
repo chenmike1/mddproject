@@ -54,10 +54,9 @@ class SMSCodeView(View):
 
         rand_int = '%06d' % random.randint(0, 999999)
         logger.info(rand_int)
-        # redis_conn = get_redis_connection('verify_code').pipeline()
-        # redis_conn.setex('%s_%s' % (rand_int, mobile), 300, rand_int)
-        # redis_conn.setex('%s' % mobile, 60, 1)
-        # redis_conn.execute()
-
-        # send_sms_code.delay(mobile,rand_int)
+        redis_conn = get_redis_connection('verify_code').pipeline()
+        redis_conn.setex('%s_%s' % (rand_int, mobile), 300, rand_int)
+        redis_conn.setex('%s' % mobile, 60, 1)
+        redis_conn.execute()
+        send_sms_code.delay(mobile,rand_int)
         return http.JsonResponse({'code': RETCODE.OK, 'errmsg': 'ok'})

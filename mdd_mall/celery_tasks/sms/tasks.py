@@ -22,3 +22,5 @@ def send_sms_code(self, mobile, sms_code):
         raise self.retry(exc=Exception('发送短信失败'), max_retries=3)
 
     return result
+
+

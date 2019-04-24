@@ -25,7 +25,7 @@ SECRET_KEY = 'mx)&#4@^eb09l18)98@kx39*^7pg3hz!w31xy44xe5p)$80@_#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 # Application definition
 
@@ -36,13 +36,16 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'corsheaders',  # 解决跨域
     'users',
     'oauth',
+
 ]
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
+    'corsheaders.middleware.CorsMiddleware',
     'django.middleware.common.CommonMiddleware',
     'django.middleware.csrf.CsrfViewMiddleware',
     'django.contrib.auth.middleware.AuthenticationMiddleware',
@@ -204,3 +207,22 @@ STATICFILES_DIRS = [os.path.join(BASE_DIR, 'static')]
 AUTH_USER_MODEL = 'users.User'
 AUTHENTICATION_BACKENDS = ['users.utils.UsernameMobileAuthBackend']
 LOGIN_URL = '/login/'
+
+# qq互联ID
+QQ_CLIENT_ID = '101518219'
+QQ_CLIENT_SECRET = '418d84ebdc7241efb79536886ae95224'
+QQ_REDIRECT_URI = 'http://www.meiduo.site:8000/oauth_callback'
+
+# 白名单
+CORS_ORIGIN_WHITELIST = ('127.0.0.1:8080',
+                         'localhost:8080',
+
+                         '127.0.0.1:8081',
+                         'localhost:8081',
+
+                         'localhost:8000',
+                         '127.0.0.1:8000',
+
+                         'www.meiduo.site:8080',
+                         'www.meiduo.site:8000',
+                         'www.meiduo.site',)

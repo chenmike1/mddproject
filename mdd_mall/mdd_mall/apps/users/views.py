@@ -47,10 +47,10 @@ class RegisterView(View):
 
         redis_conn = get_redis_connection('verify_code')
         check_redis = redis_conn.get('%s_%s' % (sms_code, phone))
-        # if check_redis is None:
-        #     return render(request, 'register.html', {'sms_code_errmsg': '验证码过期'})
-        # if check_redis.decode() != sms_code:
-        #     return render(request, 'register.html', {'sms_code_errmsg': '验证码错误'})
+        if check_redis is None:
+            return render(request, 'register.html', {'sms_code_errmsg': '验证码过期'})
+        if check_redis.decode() != sms_code:
+            return render(request, 'register.html', {'sms_code_errmsg': '验证码错误'})
 
         try:
             user = User.objects.create_user(username=username, password=password, mobile=phone)
