@@ -3303,3 +3303,89 @@ INFO 2019-04-24 20:46:40,754 basehttp 124 "GET /oauth_callback/?code=DB684BF4B84
 INFO 2019-04-24 20:46:40,759 basehttp 124 "GET / HTTP/1.1" 200 34181
 INFO 2019-04-24 20:46:42,784 basehttp 124 "GET /logout/ HTTP/1.1" 302 0
 INFO 2019-04-24 20:46:42,788 basehttp 124 "GET / HTTP/1.1" 200 34181
+INFO 2019-04-25 15:51:22,925 basehttp 124 "GET / HTTP/1.1" 200 34181
+INFO 2019-04-25 15:51:22,938 basehttp 124 "GET /static/js/index.js HTTP/1.1" 200 1720
+INFO 2019-04-25 15:51:24,343 basehttp 124 "GET /logout/ HTTP/1.1" 302 0
+INFO 2019-04-25 15:51:24,348 basehttp 124 "GET / HTTP/1.1" 200 34181
+INFO 2019-04-25 15:51:25,671 basehttp 124 "GET /info/ HTTP/1.1" 302 0
+INFO 2019-04-25 15:51:25,681 basehttp 124 "GET /login/?next=/info/ HTTP/1.1" 200 4192
+INFO 2019-04-25 15:51:27,363 basehttp 124 "GET /qq/authorization/?next=/info/ HTTP/1.1" 200 207
+INFO 2019-04-25 15:51:31,035 basehttp 124 "GET /oauth_callback?code=775B911163B49B2D92BCF3BA1145BDAA&state=%2Finfo%2F HTTP/1.1" 301 0
+INFO 2019-04-25 15:51:31,039 views 37 775B911163B49B2D92BCF3BA1145BDAA
+INFO 2019-04-25 15:51:31,488 basehttp 124 "GET /oauth_callback/?code=775B911163B49B2D92BCF3BA1145BDAA&state=%2Finfo%2F HTTP/1.1" 200 5125
+INFO 2019-04-25 15:51:31,693 basehttp 124 "GET /image_codes/8f786251-a5fb-4712-87e9-7f8d1ed86751/ HTTP/1.1" 200 3051
+INFO 2019-04-25 15:51:40,715 basehttp 124 "GET /sms_codes/13818510759/?image_code=qp6e&image_code_id=8f786251-a5fb-4712-87e9-7f8d1ed86751 HTTP/1.1" 200 60
+INFO 2019-04-25 15:51:40,727 basehttp 124 "GET /image_codes/7e867228-6948-496a-9f11-4eafcce836ab/ HTTP/1.1" 200 3722
+INFO 2019-04-25 15:51:46,038 views 56 228748
+ERROR 2019-04-25 15:51:57,290 exception 135 Internal Server Error: /oauth_callback/
+Traceback (most recent call last):
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/views/generic/base.py", line 88, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/c/Documents/mddproject/mddproject/mdd_mall/mdd_mall/apps/oauth/views.py", line 106, in post
+    if user.check_password():
+TypeError: check_password() missing 1 required positional argument: 'raw_password'
+ERROR 2019-04-25 15:51:57,325 basehttp 124 "POST /oauth_callback/?code=775B911163B49B2D92BCF3BA1145BDAA&state=%2Finfo%2F HTTP/1.1" 500 80606
+INFO 2019-04-25 15:52:37,394 basehttp 124 "GET /image_codes/51b4a38e-2f49-49b2-a709-666ad7fdca10/ HTTP/1.1" 200 2941
+INFO 2019-04-25 15:52:47,244 basehttp 124 "GET /image_codes/58223aa9-ff4e-4f61-849d-42ca1e508a7b/ HTTP/1.1" 200 3345
+ERROR 2019-04-25 15:52:59,375 exception 135 Internal Server Error: /oauth_callback/
+Traceback (most recent call last):
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/views/generic/base.py", line 88, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/c/Documents/mddproject/mddproject/mdd_mall/mdd_mall/apps/oauth/views.py", line 111, in post
+    login(request,cur_user)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/contrib/auth/__init__.py", line 161, in login
+    user_logged_in.send(sender=user.__class__, request=request, user=user)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/dispatch/dispatcher.py", line 193, in send
+    for receiver in self._live_receivers(sender)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/dispatch/dispatcher.py", line 193, in <listcomp>
+    for receiver in self._live_receivers(sender)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/contrib/auth/models.py", line 25, in update_last_login
+    user.save(update_fields=['last_login'])
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/db/models/base.py", line 794, in save
+    % ', '.join(non_model_fields))
+ValueError: The following fields do not exist in this model or are m2m fields: last_login
+ERROR 2019-04-25 15:52:59,413 basehttp 124 "POST /oauth_callback/?code=775B911163B49B2D92BCF3BA1145BDAA&state=%2Finfo%2F HTTP/1.1" 500 103574
+INFO 2019-04-25 15:53:38,779 views 37 775B911163B49B2D92BCF3BA1145BDAA
+ERROR 2019-04-25 15:53:38,986 basehttp 124 "GET /oauth_callback/?code=775B911163B49B2D92BCF3BA1145BDAA&state=%2Finfo%2F HTTP/1.1" 500 20
+INFO 2019-04-25 15:53:42,079 basehttp 124 "GET /login/?next=/info/ HTTP/1.1" 200 4192
+INFO 2019-04-25 15:53:46,275 basehttp 124 "GET /qq/authorization/?next=/info/ HTTP/1.1" 200 207
+INFO 2019-04-25 15:53:51,205 basehttp 124 "GET /oauth_callback?code=B7776DAEB4894045B093FDFEF313D758&state=%2Finfo%2F HTTP/1.1" 301 0
+INFO 2019-04-25 15:53:51,209 views 37 B7776DAEB4894045B093FDFEF313D758
+INFO 2019-04-25 15:53:51,639 basehttp 124 "GET /oauth_callback/?code=B7776DAEB4894045B093FDFEF313D758&state=%2Finfo%2F HTTP/1.1" 302 0
+INFO 2019-04-25 15:53:51,649 basehttp 124 "GET /info/ HTTP/1.1" 200 5394
+WARNING 2019-04-25 15:54:01,963 base 152 Not Found: /info/index.html
+WARNING 2019-04-25 15:54:01,963 basehttp 124 "GET /info/index.html HTTP/1.1" 404 3939
+INFO 2019-04-25 15:54:05,790 basehttp 124 "GET / HTTP/1.1" 200 34181
+INFO 2019-04-25 15:54:05,859 basehttp 124 "GET /static/js/index.js HTTP/1.1" 304 0
+INFO 2019-04-25 15:54:37,994 basehttp 124 "GET /logout/ HTTP/1.1" 302 0
+INFO 2019-04-25 15:54:37,998 basehttp 124 "GET / HTTP/1.1" 200 34181
+INFO 2019-04-25 15:54:38,853 basehttp 124 "GET /login/ HTTP/1.1" 200 4192
+INFO 2019-04-25 15:54:41,097 basehttp 124 "GET /info/ HTTP/1.1" 302 0
+INFO 2019-04-25 15:54:41,102 basehttp 124 "GET /login/?next=/info/ HTTP/1.1" 200 4192
+INFO 2019-04-25 15:54:42,745 basehttp 124 "GET /qq/authorization/?next=/info/ HTTP/1.1" 200 207
+INFO 2019-04-25 15:54:45,101 basehttp 124 "GET /oauth_callback?code=51DC4F3E91B995DB61C42E5CF2F30A9B&state=%2Finfo%2F HTTP/1.1" 301 0
+INFO 2019-04-25 15:54:45,105 views 37 51DC4F3E91B995DB61C42E5CF2F30A9B
+INFO 2019-04-25 15:54:45,517 basehttp 124 "GET /oauth_callback/?code=51DC4F3E91B995DB61C42E5CF2F30A9B&state=%2Finfo%2F HTTP/1.1" 200 5125
+INFO 2019-04-25 15:54:45,723 basehttp 124 "GET /image_codes/2fde4371-12b9-431e-b5a0-0e43179b94e8/ HTTP/1.1" 200 3599
+INFO 2019-04-25 15:54:52,060 views 56 200745
+INFO 2019-04-25 15:54:58,068 basehttp 124 "POST /oauth_callback/?code=51DC4F3E91B995DB61C42E5CF2F30A9B&state=%2Finfo%2F HTTP/1.1" 302 0
+INFO 2019-04-25 15:54:58,072 basehttp 124 "GET / HTTP/1.1" 200 34181
+INFO 2019-04-25 15:54:58,107 basehttp 124 "GET /static/js/index.js HTTP/1.1" 304 0
+INFO 2019-04-25 15:55:04,413 basehttp 124 "GET /logout/ HTTP/1.1" 302 0
+INFO 2019-04-25 15:55:04,417 basehttp 124 "GET / HTTP/1.1" 200 34181

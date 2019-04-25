@@ -103,12 +103,12 @@ class QQUserView(View):
             cook_name=cur_user.username
 
         else:
-            if user.check_password():
+            if user.check_password(password):
                 cur_user=OAuthQQUser.objects.create(user=user,openid=token)
                 cook_name = cur_user.user.username
             else:
                 return render(request, 'oauth_callback.html', {'account_errmsg': '密码错误'})
-        login(request,cur_user)
+        login(request,user)
 
         response=redirect(reverse('contents:index'))
         response.set_cookie('username',cook_name)
