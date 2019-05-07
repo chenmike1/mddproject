@@ -4342,3 +4342,1451 @@ WARNING 2019-04-29 09:51:30,999 base 152 Not Found: /browse_histories/
 WARNING 2019-04-29 09:51:31,000 basehttp 124 "GET /browse_histories/ HTTP/1.1" 404 5702
 INFO 2019-04-29 09:51:31,848 basehttp 124 "GET /password/ HTTP/1.1" 200 5207
 INFO 2019-04-29 09:52:03,647 basehttp 124 "POST /password/ HTTP/1.1" 200 5322
+INFO 2019-05-02 16:41:23,018 basehttp 124 "GET / HTTP/1.1" 200 34181
+INFO 2019-05-02 16:41:23,038 basehttp 124 "GET /static/css/main.css HTTP/1.1" 200 39722
+INFO 2019-05-02 16:41:23,041 basehttp 124 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO 2019-05-02 16:41:23,041 basehttp 124 "GET /static/images/slide01.jpg HTTP/1.1" 200 67813
+INFO 2019-05-02 16:41:23,042 basehttp 124 "GET /static/images/slide02.jpg HTTP/1.1" 200 89905
+INFO 2019-05-02 16:41:23,042 basehttp 124 "GET /static/images/slide03.jpg HTTP/1.1" 200 70152
+INFO 2019-05-02 16:41:23,044 basehttp 124 "GET /static/images/slide04.jpg HTTP/1.1" 200 107973
+INFO 2019-05-02 16:41:23,045 basehttp 124 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2019-05-02 16:41:23,046 basehttp 124 "GET /static/images/adv01.jpg HTTP/1.1" 200 39831
+INFO 2019-05-02 16:41:23,050 basehttp 124 "GET /static/js/index.js HTTP/1.1" 304 0
+WARNING 2019-05-02 16:41:25,423 base 152 Not Found: /favicon.ico
+WARNING 2019-05-02 16:41:25,423 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 5684
+INFO 2019-05-02 16:41:27,171 basehttp 124 "GET /logout/ HTTP/1.1" 302 0
+INFO 2019-05-02 16:41:27,315 basehttp 124 "GET / HTTP/1.1" 200 34181
+INFO 2019-05-02 17:45:13,701 basehttp 124 "GET / HTTP/1.1" 200 106968
+INFO 2019-05-02 17:45:26,899 basehttp 124 "GET / HTTP/1.1" 200 106968
+INFO 2019-05-02 17:45:27,547 basehttp 124 "GET / HTTP/1.1" 200 106968
+INFO 2019-05-02 17:48:15,833 basehttp 124 "GET / HTTP/1.1" 200 124868
+INFO 2019-05-02 17:48:32,660 basehttp 124 "GET / HTTP/1.1" 200 124868
+INFO 2019-05-02 17:53:35,960 basehttp 124 "GET / HTTP/1.1" 200 124791
+INFO 2019-05-02 17:53:38,277 basehttp 124 "GET / HTTP/1.1" 200 124791
+INFO 2019-05-02 17:53:50,083 basehttp 124 "GET / HTTP/1.1" 200 124868
+INFO 2019-05-02 17:54:16,191 basehttp 124 "GET / HTTP/1.1" 200 124560
+INFO 2019-05-02 17:54:18,290 basehttp 124 "GET / HTTP/1.1" 200 124560
+INFO 2019-05-02 18:09:45,946 basehttp 124 "GET / HTTP/1.1" 200 124868
+WARNING 2019-05-02 18:10:01,830 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1661
+INFO 2019-05-02 18:10:07,012 basehttp 124 "GET / HTTP/1.1" 200 124868
+WARNING 2019-05-02 18:10:07,109 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1661
+INFO 2019-05-02 18:11:46,495 basehttp 124 "GET / HTTP/1.1" 200 124868
+INFO 2019-05-02 18:11:46,512 basehttp 124 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2019-05-02 18:11:46,512 basehttp 124 "GET /static/js/host.js HTTP/1.1" 200 75
+INFO 2019-05-02 18:11:46,514 basehttp 124 "GET /static/images/logo.png HTTP/1.1" 200 7450
+INFO 2019-05-02 18:11:46,515 basehttp 124 "GET /static/css/main.css HTTP/1.1" 200 39722
+INFO 2019-05-02 18:11:46,517 basehttp 124 "GET /static/images/goods/goods001.jpg HTTP/1.1" 200 5391
+INFO 2019-05-02 18:11:46,517 basehttp 124 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2019-05-02 18:11:46,518 basehttp 124 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO 2019-05-02 18:11:46,520 basehttp 124 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2019-05-02 18:11:46,526 basehttp 124 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2019-05-02 18:11:46,526 basehttp 124 "GET /static/js/base.js HTTP/1.1" 200 1016
+INFO 2019-05-02 18:11:46,541 basehttp 124 "GET /static/js/slide.js HTTP/1.1" 200 1822
+INFO 2019-05-02 18:11:46,541 basehttp 124 "GET /static/js/index.js HTTP/1.1" 200 1720
+INFO 2019-05-02 18:11:46,585 basehttp 124 "GET /static/images/goods/goods002.jpg HTTP/1.1" 200 5377
+INFO 2019-05-02 18:11:46,585 basehttp 124 "GET /static/images/icons.png HTTP/1.1" 200 7740
+INFO 2019-05-02 18:19:04,684 basehttp 124 "GET / HTTP/1.1" 200 124868
+INFO 2019-05-02 18:23:27,887 basehttp 124 "GET / HTTP/1.1" 200 124868
+INFO 2019-05-02 18:25:24,962 basehttp 124 "GET / HTTP/1.1" 200 124868
+INFO 2019-05-02 18:26:56,816 basehttp 124 "GET / HTTP/1.1" 200 124868
+INFO 2019-05-03 08:55:21,939 basehttp 124 "GET / HTTP/1.1" 200 124868
+INFO 2019-05-03 09:02:04,450 basehttp 124 "GET / HTTP/1.1" 200 124868
+INFO 2019-05-03 09:09:46,192 basehttp 124 "GET / HTTP/1.1" 200 124868
+INFO 2019-05-03 09:11:18,761 basehttp 124 "GET / HTTP/1.1" 200 124868
+INFO 2019-05-03 09:42:25,227 basehttp 124 "GET / HTTP/1.1" 200 124868
+INFO 2019-05-03 10:03:44,324 basehttp 124 "GET / HTTP/1.1" 200 124791
+INFO 2019-05-03 10:03:51,247 basehttp 124 "GET / HTTP/1.1" 200 124791
+WARNING 2019-05-03 10:03:54,221 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1661
+INFO 2019-05-03 10:07:34,330 basehttp 124 "GET / HTTP/1.1" 200 124791
+INFO 2019-05-03 10:07:44,165 basehttp 124 "GET / HTTP/1.1" 200 124791
+INFO 2019-05-03 10:20:23,097 basehttp 124 "GET / HTTP/1.1" 200 124791
+INFO 2019-05-03 10:20:26,943 basehttp 124 "GET / HTTP/1.1" 200 124791
+WARNING 2019-05-03 10:20:30,732 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1661
+INFO 2019-05-03 10:20:39,664 basehttp 124 "GET / HTTP/1.1" 200 124791
+WARNING 2019-05-03 10:20:39,771 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1661
+INFO 2019-05-03 10:30:25,852 basehttp 124 "GET / HTTP/1.1" 200 124791
+WARNING 2019-05-03 10:30:26,007 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1661
+INFO 2019-05-03 10:50:53,614 basehttp 124 "GET / HTTP/1.1" 200 124945
+INFO 2019-05-03 10:51:58,144 basehttp 124 "GET / HTTP/1.1" 200 124945
+INFO 2019-05-03 10:52:01,108 basehttp 124 "GET / HTTP/1.1" 200 124945
+INFO 2019-05-03 10:52:08,032 basehttp 124 "GET / HTTP/1.1" 200 124945
+INFO 2019-05-03 10:52:41,993 basehttp 124 "GET / HTTP/1.1" 200 124945
+INFO 2019-05-03 10:52:42,036 basehttp 124 "GET /static/js/host.js HTTP/1.1" 200 75
+INFO 2019-05-03 10:52:42,036 basehttp 124 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2019-05-03 10:52:42,037 basehttp 124 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2019-05-03 10:52:42,038 basehttp 124 "GET /static/css/main.css HTTP/1.1" 200 39722
+INFO 2019-05-03 10:52:42,038 basehttp 124 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO 2019-05-03 10:52:42,039 basehttp 124 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2019-05-03 10:52:42,043 basehttp 124 "GET /static/images/goods/goods001.jpg HTTP/1.1" 200 5391
+INFO 2019-05-03 10:52:42,043 basehttp 124 "GET /static/images/logo.png HTTP/1.1" 200 7450
+INFO 2019-05-03 10:52:42,045 basehttp 124 "GET /static/images/goods/goods002.jpg HTTP/1.1" 200 5377
+INFO 2019-05-03 10:52:42,050 basehttp 124 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2019-05-03 10:52:42,053 basehttp 124 "GET /static/js/base.js HTTP/1.1" 200 1016
+INFO 2019-05-03 10:52:42,053 basehttp 124 "GET /static/js/slide.js HTTP/1.1" 200 1822
+INFO 2019-05-03 10:52:42,055 basehttp 124 "GET /static/js/index.js HTTP/1.1" 200 1720
+INFO 2019-05-03 10:52:42,449 basehttp 124 "GET /static/images/icons.png HTTP/1.1" 200 7740
+INFO 2019-05-03 10:56:00,571 basehttp 124 "GET / HTTP/1.1" 200 124945
+WARNING 2019-05-03 10:56:27,690 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1661
+WARNING 2019-05-03 10:58:44,019 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1661
+INFO 2019-05-03 10:58:53,059 basehttp 124 "GET / HTTP/1.1" 200 124945
+WARNING 2019-05-03 10:58:53,108 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1661
+INFO 2019-05-03 11:01:44,351 basehttp 124 "GET / HTTP/1.1" 200 124945
+INFO 2019-05-03 11:03:32,505 basehttp 124 "GET / HTTP/1.1" 200 124945
+INFO 2019-05-03 11:03:41,873 basehttp 124 "GET / HTTP/1.1" 200 124945
+INFO 2019-05-03 11:03:47,000 basehttp 124 "GET / HTTP/1.1" 200 124945
+INFO 2019-05-03 11:03:49,477 basehttp 124 "GET / HTTP/1.1" 200 124945
+INFO 2019-05-03 11:04:14,956 basehttp 124 "GET / HTTP/1.1" 200 124945
+INFO 2019-05-03 11:06:28,378 basehttp 124 "GET / HTTP/1.1" 200 124945
+INFO 2019-05-03 11:06:31,592 basehttp 124 "GET / HTTP/1.1" 200 124945
+WARNING 2019-05-03 11:06:37,552 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1661
+INFO 2019-05-03 11:06:48,223 basehttp 124 "GET / HTTP/1.1" 200 124945
+INFO 2019-05-03 11:06:48,265 basehttp 124 "GET /static/images/logo.png HTTP/1.1" 200 7450
+INFO 2019-05-03 11:06:48,265 basehttp 124 "GET /static/images/goods/goods001.jpg HTTP/1.1" 200 5391
+INFO 2019-05-03 11:06:48,266 basehttp 124 "GET /static/css/main.css HTTP/1.1" 200 39722
+INFO 2019-05-03 11:06:48,266 basehttp 124 "GET /static/images/goods/goods002.jpg HTTP/1.1" 200 5377
+INFO 2019-05-03 11:06:48,267 basehttp 124 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2019-05-03 11:06:48,275 basehttp 124 "GET /static/js/host.js HTTP/1.1" 200 75
+INFO 2019-05-03 11:06:48,282 basehttp 124 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2019-05-03 11:06:48,283 basehttp 124 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2019-05-03 11:06:48,284 basehttp 124 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO 2019-05-03 11:06:48,285 basehttp 124 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2019-05-03 11:06:48,294 basehttp 124 "GET /static/js/base.js HTTP/1.1" 200 1016
+INFO 2019-05-03 11:06:48,294 basehttp 124 "GET /static/js/slide.js HTTP/1.1" 200 1822
+INFO 2019-05-03 11:06:48,294 basehttp 124 "GET /static/js/index.js HTTP/1.1" 200 1720
+INFO 2019-05-03 11:06:48,996 basehttp 124 "GET /static/images/icons.png HTTP/1.1" 200 7740
+INFO 2019-05-03 11:07:33,083 basehttp 124 "GET / HTTP/1.1" 200 124945
+INFO 2019-05-03 11:09:47,502 basehttp 124 "GET / HTTP/1.1" 200 124945
+INFO 2019-05-03 11:18:03,336 basehttp 124 "GET / HTTP/1.1" 200 124945
+INFO 2019-05-03 11:18:03,384 basehttp 124 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2019-05-03 11:18:03,385 basehttp 124 "GET /static/js/host.js HTTP/1.1" 200 75
+INFO 2019-05-03 11:18:03,386 basehttp 124 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2019-05-03 11:18:03,386 basehttp 124 "GET /static/css/main.css HTTP/1.1" 200 39722
+INFO 2019-05-03 11:18:03,387 basehttp 124 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO 2019-05-03 11:18:03,387 basehttp 124 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2019-05-03 11:18:03,389 basehttp 124 "GET /static/images/logo.png HTTP/1.1" 200 7450
+INFO 2019-05-03 11:18:03,389 basehttp 124 "GET /static/images/goods/goods001.jpg HTTP/1.1" 200 5391
+INFO 2019-05-03 11:18:03,408 basehttp 124 "GET /static/images/goods/goods002.jpg HTTP/1.1" 200 5377
+INFO 2019-05-03 11:18:03,409 basehttp 124 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2019-05-03 11:18:03,409 basehttp 124 "GET /static/js/base.js HTTP/1.1" 200 1016
+INFO 2019-05-03 11:18:03,411 basehttp 124 "GET /static/js/slide.js HTTP/1.1" 200 1822
+INFO 2019-05-03 11:18:03,415 basehttp 124 "GET /static/js/index.js HTTP/1.1" 200 1727
+INFO 2019-05-03 11:18:03,720 basehttp 124 "GET /static/images/icons.png HTTP/1.1" 200 7740
+WARNING 2019-05-03 11:18:03,954 base 152 Not Found: /carts/simple/
+WARNING 2019-05-03 11:18:03,954 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 5690
+INFO 2019-05-05 15:51:57,099 basehttp 124 "GET / HTTP/1.1" 200 124945
+WARNING 2019-05-05 15:51:58,195 base 152 Not Found: /favicon.ico
+WARNING 2019-05-05 15:51:58,196 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 5903
+INFO 2019-05-05 15:52:17,411 basehttp 124 "GET / HTTP/1.1" 200 124945
+WARNING 2019-05-05 15:52:17,573 base 152 Not Found: /carts/simple/
+WARNING 2019-05-05 15:52:17,574 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 5909
+INFO 2019-05-05 15:52:40,529 basehttp 124 "GET /login/ HTTP/1.1" 200 4192
+WARNING 2019-05-05 15:52:41,099 base 152 Not Found: /list
+WARNING 2019-05-05 15:52:41,099 basehttp 124 "GET /list HTTP/1.1" 404 5882
+INFO 2019-05-05 15:52:45,050 basehttp 124 "GET /list/115/1 HTTP/1.1" 301 0
+INFO 2019-05-05 15:52:45,054 basehttp 124 "GET /list/115/1/ HTTP/1.1" 200 0
+WARNING 2019-05-05 15:53:42,654 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1661
+INFO 2019-05-05 15:53:45,690 basehttp 124 "GET /list/115/1/ HTTP/1.1" 200 0
+WARNING 2019-05-05 15:53:57,260 base 152 Not Found: /list
+WARNING 2019-05-05 15:53:57,260 basehttp 124 "GET /list HTTP/1.1" 404 5882
+INFO 2019-05-05 15:56:34,455 basehttp 124 "GET /list/115/1/?sort=default HTTP/1.1" 200 0
+WARNING 2019-05-05 15:56:34,540 base 152 Not Found: /favicon.ico
+WARNING 2019-05-05 15:56:34,540 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 5909
+ERROR 2019-05-05 15:58:27,747 exception 135 Internal Server Error: /list/115/1/
+Traceback (most recent call last):
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/views/generic/base.py", line 88, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/c/Documents/mddproject/mddproject/mdd_mall/mdd_mall/apps/goods/views.py", line 11, in get
+    return render(request,'list.html')
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/template/loader.py", line 68, in render_to_string
+    return template.render(context, request)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/template/backends/jinja2.py", line 81, in render
+    return self.template.render(context)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/jinja2/asyncsupport.py", line 76, in render
+    return original_render(self, *args, **kwargs)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/jinja2/environment.py", line 1008, in render
+    return self.environment.handle_exception(exc_info, True)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/jinja2/environment.py", line 780, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/jinja2/_compat.py", line 37, in reraise
+    raise value.with_traceback(tb)
+  File "/Users/c/Documents/mddproject/mddproject/mdd_mall/mdd_mall/templates/list.html", line 374, in top-level template code
+    // location.href = '/list/{{ category.id }}/' + current + '/?sort={{ sort }}';
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/jinja2/environment.py", line 430, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'category' is undefined
+ERROR 2019-05-05 15:58:27,802 basehttp 124 "GET /list/115/1/?sort=default HTTP/1.1" 500 122334
+ERROR 2019-05-05 16:17:52,020 exception 135 Internal Server Error: /list/115/1/
+Traceback (most recent call last):
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/views/generic/base.py", line 88, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/c/Documents/mddproject/mddproject/mdd_mall/mdd_mall/apps/goods/views.py", line 44, in get
+    return render(request, 'list.html', context=context)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/template/loader.py", line 68, in render_to_string
+    return template.render(context, request)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/template/backends/jinja2.py", line 81, in render
+    return self.template.render(context)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/jinja2/asyncsupport.py", line 76, in render
+    return original_render(self, *args, **kwargs)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/jinja2/environment.py", line 1008, in render
+    return self.environment.handle_exception(exc_info, True)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/jinja2/environment.py", line 780, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/jinja2/_compat.py", line 37, in reraise
+    raise value.with_traceback(tb)
+  File "/Users/c/Documents/mddproject/mddproject/mdd_mall/mdd_mall/templates/list.html", line 375, in top-level template code
+    // location.href = '/list/{{ category.id }}/' + current + '/?sort={{ sort }}';
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/jinja2/environment.py", line 430, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'category' is undefined
+ERROR 2019-05-05 16:17:52,105 basehttp 124 "GET /list/115/1/?sort=default HTTP/1.1" 500 168826
+INFO 2019-05-05 16:18:20,309 basehttp 124 "GET /list/115/1/?sort=default HTTP/1.1" 200 17259
+WARNING 2019-05-05 16:18:20,326 base 152 Not Found: /list/115/static/css/jquery.pagination.css
+WARNING 2019-05-05 16:18:20,332 base 152 Not Found: /list/115/static/css/reset.css
+WARNING 2019-05-05 16:18:20,336 base 152 Not Found: /list/115/static/css/main.css
+WARNING 2019-05-05 16:18:20,336 basehttp 124 "GET /list/115/static/css/reset.css HTTP/1.1" 404 5963
+WARNING 2019-05-05 16:18:20,337 basehttp 124 "GET /list/115/static/css/jquery.pagination.css HTTP/1.1" 404 5999
+WARNING 2019-05-05 16:18:20,341 base 152 Not Found: /list/115/static/js/host.js
+WARNING 2019-05-05 16:18:20,341 basehttp 124 "GET /list/115/static/css/main.css HTTP/1.1" 404 5960
+WARNING 2019-05-05 16:18:20,345 base 152 Not Found: /list/115/static/js/vue-2.5.16.js
+WARNING 2019-05-05 16:18:20,350 base 152 Not Found: /list/115/static/js/axios-0.18.0.min.js
+WARNING 2019-05-05 16:18:20,350 basehttp 124 "GET /list/115/static/js/host.js HTTP/1.1" 404 5954
+WARNING 2019-05-05 16:18:20,354 base 152 Not Found: /list/115/static/js/jquery-1.12.4.min.js
+WARNING 2019-05-05 16:18:20,355 basehttp 124 "GET /list/115/static/js/axios-0.18.0.min.js HTTP/1.1" 404 5990
+WARNING 2019-05-05 16:18:20,355 basehttp 124 "GET /list/115/static/js/vue-2.5.16.js HTTP/1.1" 404 5972
+WARNING 2019-05-05 16:18:20,359 base 152 Not Found: /list/115/static/js/common.js
+WARNING 2019-05-05 16:18:20,363 base 152 Not Found: /list/115/static/js/list.js
+WARNING 2019-05-05 16:18:20,363 basehttp 124 "GET /list/115/static/js/jquery-1.12.4.min.js HTTP/1.1" 404 5993
+WARNING 2019-05-05 16:18:20,364 basehttp 124 "GET /list/115/static/js/common.js HTTP/1.1" 404 5960
+WARNING 2019-05-05 16:18:20,365 basehttp 124 "GET /list/115/static/js/list.js HTTP/1.1" 404 5954
+WARNING 2019-05-05 16:18:20,372 base 152 Not Found: /list/115/static/js/jquery.pagination.min.js
+WARNING 2019-05-05 16:18:20,372 basehttp 124 "GET /list/115/static/js/jquery.pagination.min.js HTTP/1.1" 404 6005
+INFO 2019-05-05 16:20:01,074 basehttp 124 "GET /list/115/1/?sort=default HTTP/1.1" 200 20363
+INFO 2019-05-05 16:20:01,093 basehttp 124 "GET /static/css/jquery.pagination.css HTTP/1.1" 200 523
+INFO 2019-05-05 16:20:01,095 basehttp 124 "GET /static/js/host.js HTTP/1.1" 304 0
+INFO 2019-05-05 16:20:01,096 basehttp 124 "GET /static/css/main.css HTTP/1.1" 200 39722
+INFO 2019-05-05 16:20:01,096 basehttp 124 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO 2019-05-05 16:20:01,098 basehttp 124 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2019-05-05 16:20:01,128 basehttp 124 "GET /static/js/list.js HTTP/1.1" 200 2105
+INFO 2019-05-05 16:20:01,129 basehttp 124 "GET /static/js/jquery.pagination.min.js HTTP/1.1" 200 2935
+INFO 2019-05-05 16:22:06,824 basehttp 124 "GET /list/115/1/?sort=default HTTP/1.1" 200 20363
+INFO 2019-05-05 16:24:11,914 basehttp 124 "GET / HTTP/1.1" 200 124945
+INFO 2019-05-05 16:24:19,322 basehttp 124 "GET /list/115/1/?sort=default HTTP/1.1" 200 20363
+INFO 2019-05-05 16:24:19,367 basehttp 124 "GET /static/js/list.js HTTP/1.1" 200 2105
+WARNING 2019-05-05 16:24:32,918 base 152 Not Found: /carts/simple/
+WARNING 2019-05-05 16:24:32,918 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 5909
+INFO 2019-05-05 16:24:45,087 basehttp 124 "GET / HTTP/1.1" 200 124945
+INFO 2019-05-05 16:24:45,101 basehttp 124 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2019-05-05 16:24:45,102 basehttp 124 "GET /static/images/logo.png HTTP/1.1" 200 7450
+INFO 2019-05-05 16:24:45,103 basehttp 124 "GET /static/js/host.js HTTP/1.1" 200 75
+INFO 2019-05-05 16:24:45,104 basehttp 124 "GET /static/css/main.css HTTP/1.1" 200 39722
+INFO 2019-05-05 16:24:45,104 basehttp 124 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2019-05-05 16:24:45,108 basehttp 124 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO 2019-05-05 16:24:45,108 basehttp 124 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2019-05-05 16:24:45,111 basehttp 124 "GET /static/images/goods/goods001.jpg HTTP/1.1" 200 5391
+INFO 2019-05-05 16:24:45,112 basehttp 124 "GET /static/images/goods/goods002.jpg HTTP/1.1" 200 5377
+INFO 2019-05-05 16:24:45,149 basehttp 124 "GET /static/js/slide.js HTTP/1.1" 200 1822
+INFO 2019-05-05 16:24:45,149 basehttp 124 "GET /static/js/index.js HTTP/1.1" 200 1727
+INFO 2019-05-05 16:24:45,149 basehttp 124 "GET /static/js/base.js HTTP/1.1" 200 1016
+INFO 2019-05-05 16:24:45,150 basehttp 124 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2019-05-05 16:24:45,594 basehttp 124 "GET /static/images/icons.png HTTP/1.1" 200 7740
+WARNING 2019-05-05 16:24:45,829 base 152 Not Found: /carts/simple/
+WARNING 2019-05-05 16:24:45,830 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 5909
+WARNING 2019-05-05 16:24:53,775 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1661
+INFO 2019-05-05 16:24:58,073 basehttp 124 "GET / HTTP/1.1" 200 124945
+WARNING 2019-05-05 16:24:58,141 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1661
+WARNING 2019-05-05 16:24:58,297 base 152 Not Found: /carts/simple/
+WARNING 2019-05-05 16:24:58,297 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 5909
+INFO 2019-05-05 16:25:25,362 basehttp 124 "GET /list/115/1/?sort=default HTTP/1.1" 200 20363
+INFO 2019-05-05 16:25:25,374 basehttp 124 "GET /static/css/jquery.pagination.css HTTP/1.1" 200 523
+INFO 2019-05-05 16:25:25,405 basehttp 124 "GET /static/js/list.js HTTP/1.1" 200 2105
+INFO 2019-05-05 16:25:25,406 basehttp 124 "GET /static/js/jquery.pagination.min.js HTTP/1.1" 200 2935
+INFO 2019-05-05 16:25:25,409 basehttp 124 "GET /static/images/shop_cart.png HTTP/1.1" 200 1317
+WARNING 2019-05-05 16:25:25,424 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1661
+INFO 2019-05-05 16:25:29,870 basehttp 124 "GET /list/115/1 HTTP/1.1" 301 0
+INFO 2019-05-05 16:25:30,026 basehttp 124 "GET /list/115/1/ HTTP/1.1" 200 20363
+WARNING 2019-05-05 16:25:30,074 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1661
+INFO 2019-05-05 16:25:44,253 basehttp 124 "GET /list/115/2/?sort={{%20sort%20}} HTTP/1.1" 200 20412
+INFO 2019-05-05 16:25:45,970 basehttp 124 "GET /list/115/3/?sort={{%20sort%20}} HTTP/1.1" 200 19502
+INFO 2019-05-05 16:25:47,804 basehttp 124 "GET /list/115/1/?sort={{%20sort%20}} HTTP/1.1" 200 20363
+INFO 2019-05-05 16:25:48,923 basehttp 124 "GET /list/115/2/?sort={{%20sort%20}} HTTP/1.1" 200 20412
+INFO 2019-05-05 16:25:51,031 basehttp 124 "GET /list/115/1/?sort={{%20sort%20}} HTTP/1.1" 200 20363
+WARNING 2019-05-05 16:25:57,253 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1661
+INFO 2019-05-05 16:26:11,344 basehttp 124 "GET /list/115/1/ HTTP/1.1" 200 20363
+WARNING 2019-05-05 16:26:11,390 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1661
+INFO 2019-05-05 16:27:42,473 basehttp 124 "GET /list/115/1/ HTTP/1.1" 200 20363
+WARNING 2019-05-05 16:27:42,517 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1661
+INFO 2019-05-05 16:38:05,800 basehttp 124 "GET /list/115/1/ HTTP/1.1" 200 20046
+INFO 2019-05-05 16:40:10,214 basehttp 124 "GET /list/115/1/ HTTP/1.1" 200 20046
+INFO 2019-05-05 16:40:12,168 basehttp 124 "GET /list/115/1/ HTTP/1.1" 200 20046
+INFO 2019-05-05 16:40:13,548 basehttp 124 "GET /list/115/1/ HTTP/1.1" 200 20046
+INFO 2019-05-05 16:40:14,455 basehttp 124 "GET /list/115/1/ HTTP/1.1" 200 20046
+INFO 2019-05-05 16:40:15,645 basehttp 124 "GET /list/115/1/ HTTP/1.1" 200 20046
+INFO 2019-05-05 16:40:16,378 basehttp 124 "GET /list/115/1/ HTTP/1.1" 200 20046
+INFO 2019-05-05 16:40:16,891 basehttp 124 "GET /list/115/1/ HTTP/1.1" 200 20046
+INFO 2019-05-05 16:40:17,131 basehttp 124 "GET /list/115/1/ HTTP/1.1" 200 20046
+INFO 2019-05-05 16:40:17,335 basehttp 124 "GET /list/115/1/ HTTP/1.1" 200 20046
+INFO 2019-05-05 16:40:17,512 basehttp 124 "GET /list/115/1/ HTTP/1.1" 200 20046
+INFO 2019-05-05 16:40:17,680 basehttp 124 "GET /list/115/1/ HTTP/1.1" 200 20046
+INFO 2019-05-05 16:40:17,903 basehttp 124 "GET /list/115/1/ HTTP/1.1" 200 20046
+INFO 2019-05-05 16:40:18,070 basehttp 124 "GET /list/115/1/ HTTP/1.1" 200 20046
+INFO 2019-05-05 16:40:18,282 basehttp 124 "GET /list/115/1/ HTTP/1.1" 200 20046
+INFO 2019-05-05 16:40:18,493 basehttp 124 "GET /list/115/1/ HTTP/1.1" 200 20046
+INFO 2019-05-05 16:40:20,237 basehttp 124 "GET /list/115/1/ HTTP/1.1" 200 20046
+INFO 2019-05-05 16:42:19,251 basehttp 124 "GET /list/115/1/ HTTP/1.1" 200 20117
+WARNING 2019-05-05 16:42:19,311 base 152 Not Found: /carts/simple/
+WARNING 2019-05-05 16:42:19,312 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6090
+ERROR 2019-05-05 16:42:19,317 exception 135 Internal Server Error: /hot/115/
+Traceback (most recent call last):
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/views/generic/base.py", line 88, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/c/Documents/mddproject/mddproject/mdd_mall/mdd_mall/apps/goods/views.py", line 55, in get
+    'id':skus.id,
+AttributeError: 'QuerySet' object has no attribute 'id'
+ERROR 2019-05-05 16:42:19,348 basehttp 124 "GET /hot/115/ HTTP/1.1" 500 77873
+INFO 2019-05-05 16:42:22,045 basehttp 124 "GET /list/115/1/ HTTP/1.1" 200 20117
+WARNING 2019-05-05 16:42:22,100 base 152 Not Found: /carts/simple/
+WARNING 2019-05-05 16:42:22,103 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6090
+ERROR 2019-05-05 16:42:22,107 exception 135 Internal Server Error: /hot/115/
+Traceback (most recent call last):
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/views/generic/base.py", line 88, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/c/Documents/mddproject/mddproject/mdd_mall/mdd_mall/apps/goods/views.py", line 55, in get
+    'id':skus.id,
+AttributeError: 'QuerySet' object has no attribute 'id'
+ERROR 2019-05-05 16:42:22,133 basehttp 124 "GET /hot/115/ HTTP/1.1" 500 77873
+INFO 2019-05-05 16:42:22,666 basehttp 124 "GET /list/115/1/ HTTP/1.1" 200 20117
+WARNING 2019-05-05 16:42:22,717 base 152 Not Found: /carts/simple/
+WARNING 2019-05-05 16:42:22,719 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6090
+ERROR 2019-05-05 16:42:22,724 exception 135 Internal Server Error: /hot/115/
+Traceback (most recent call last):
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/views/generic/base.py", line 88, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/c/Documents/mddproject/mddproject/mdd_mall/mdd_mall/apps/goods/views.py", line 55, in get
+    'id':skus.id,
+AttributeError: 'QuerySet' object has no attribute 'id'
+ERROR 2019-05-05 16:42:22,751 basehttp 124 "GET /hot/115/ HTTP/1.1" 500 77873
+INFO 2019-05-05 16:42:22,910 basehttp 124 "GET /list/115/1/ HTTP/1.1" 200 20117
+WARNING 2019-05-05 16:42:22,988 base 152 Not Found: /carts/simple/
+WARNING 2019-05-05 16:42:22,989 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6090
+ERROR 2019-05-05 16:42:23,001 exception 135 Internal Server Error: /hot/115/
+Traceback (most recent call last):
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/views/generic/base.py", line 88, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/c/Documents/mddproject/mddproject/mdd_mall/mdd_mall/apps/goods/views.py", line 55, in get
+    'id':skus.id,
+AttributeError: 'QuerySet' object has no attribute 'id'
+ERROR 2019-05-05 16:42:23,036 basehttp 124 "GET /hot/115/ HTTP/1.1" 500 77873
+INFO 2019-05-05 16:42:23,218 basehttp 124 "GET /list/115/1/ HTTP/1.1" 200 20117
+INFO 2019-05-05 16:42:23,364 basehttp 124 "GET /list/115/1/ HTTP/1.1" 200 20117
+WARNING 2019-05-05 16:42:23,413 base 152 Not Found: /carts/simple/
+WARNING 2019-05-05 16:42:23,414 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6090
+ERROR 2019-05-05 16:42:23,421 exception 135 Internal Server Error: /hot/115/
+Traceback (most recent call last):
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/views/generic/base.py", line 88, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/c/Documents/mddproject/mddproject/mdd_mall/mdd_mall/apps/goods/views.py", line 55, in get
+    'id':skus.id,
+AttributeError: 'QuerySet' object has no attribute 'id'
+ERROR 2019-05-05 16:42:23,457 basehttp 124 "GET /hot/115/ HTTP/1.1" 500 77873
+INFO 2019-05-05 16:42:23,853 basehttp 124 "GET /list/115/1/ HTTP/1.1" 200 20117
+WARNING 2019-05-05 16:42:23,905 base 152 Not Found: /carts/simple/
+WARNING 2019-05-05 16:42:23,908 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6090
+ERROR 2019-05-05 16:42:23,912 exception 135 Internal Server Error: /hot/115/
+Traceback (most recent call last):
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/views/generic/base.py", line 88, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/c/Documents/mddproject/mddproject/mdd_mall/mdd_mall/apps/goods/views.py", line 55, in get
+    'id':skus.id,
+AttributeError: 'QuerySet' object has no attribute 'id'
+ERROR 2019-05-05 16:42:23,937 basehttp 124 "GET /hot/115/ HTTP/1.1" 500 77873
+INFO 2019-05-05 16:42:24,100 basehttp 124 "GET /list/115/1/ HTTP/1.1" 200 20117
+WARNING 2019-05-05 16:42:24,182 base 152 Not Found: /carts/simple/
+WARNING 2019-05-05 16:42:24,185 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6090
+ERROR 2019-05-05 16:42:24,193 exception 135 Internal Server Error: /hot/115/
+Traceback (most recent call last):
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/views/generic/base.py", line 88, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/c/Documents/mddproject/mddproject/mdd_mall/mdd_mall/apps/goods/views.py", line 55, in get
+    'id':skus.id,
+AttributeError: 'QuerySet' object has no attribute 'id'
+ERROR 2019-05-05 16:42:24,230 basehttp 124 "GET /hot/115/ HTTP/1.1" 500 77873
+INFO 2019-05-05 16:42:24,445 basehttp 124 "GET /list/115/1/ HTTP/1.1" 200 20117
+INFO 2019-05-05 16:42:24,543 basehttp 124 "GET /list/115/1/ HTTP/1.1" 200 20117
+WARNING 2019-05-05 16:42:24,589 base 152 Not Found: /carts/simple/
+WARNING 2019-05-05 16:42:24,590 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6090
+ERROR 2019-05-05 16:42:24,595 exception 135 Internal Server Error: /hot/115/
+Traceback (most recent call last):
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/views/generic/base.py", line 88, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/c/Documents/mddproject/mddproject/mdd_mall/mdd_mall/apps/goods/views.py", line 55, in get
+    'id':skus.id,
+AttributeError: 'QuerySet' object has no attribute 'id'
+ERROR 2019-05-05 16:42:24,621 basehttp 124 "GET /hot/115/ HTTP/1.1" 500 77873
+INFO 2019-05-05 16:42:25,364 basehttp 124 "GET /list/115/1/ HTTP/1.1" 200 20117
+WARNING 2019-05-05 16:42:25,408 base 152 Not Found: /carts/simple/
+WARNING 2019-05-05 16:42:25,410 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6090
+ERROR 2019-05-05 16:42:25,414 exception 135 Internal Server Error: /hot/115/
+Traceback (most recent call last):
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/views/generic/base.py", line 88, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/c/Documents/mddproject/mddproject/mdd_mall/mdd_mall/apps/goods/views.py", line 55, in get
+    'id':skus.id,
+AttributeError: 'QuerySet' object has no attribute 'id'
+ERROR 2019-05-05 16:42:25,439 basehttp 124 "GET /hot/115/ HTTP/1.1" 500 77873
+INFO 2019-05-05 16:43:22,935 basehttp 124 "GET /list/115/1/ HTTP/1.1" 200 20117
+WARNING 2019-05-05 16:43:22,997 base 152 Not Found: /carts/simple/
+WARNING 2019-05-05 16:43:22,999 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6090
+INFO 2019-05-05 16:43:23,003 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 585
+INFO 2019-05-05 16:43:23,899 basehttp 124 "GET /list/115/1/ HTTP/1.1" 200 20117
+WARNING 2019-05-05 16:43:23,952 base 152 Not Found: /carts/simple/
+WARNING 2019-05-05 16:43:23,953 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6090
+INFO 2019-05-05 16:43:23,960 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 585
+INFO 2019-05-05 16:44:52,870 basehttp 124 "GET /list/115/1/ HTTP/1.1" 200 20117
+WARNING 2019-05-05 16:44:52,937 base 152 Not Found: /carts/simple/
+WARNING 2019-05-05 16:44:52,939 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6090
+INFO 2019-05-05 16:44:52,945 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 585
+INFO 2019-05-05 16:48:31,372 basehttp 124 "GET /list/115/1/?sort=default HTTP/1.1" 200 20117
+WARNING 2019-05-05 16:48:31,428 base 152 Not Found: /carts/simple/
+WARNING 2019-05-05 16:48:31,430 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6090
+INFO 2019-05-05 16:48:31,435 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 585
+INFO 2019-05-05 16:48:32,160 basehttp 124 "GET /list/115/1/?sort=price HTTP/1.1" 200 20179
+WARNING 2019-05-05 16:48:32,222 base 152 Not Found: /carts/simple/
+WARNING 2019-05-05 16:48:32,225 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6090
+INFO 2019-05-05 16:48:32,228 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 585
+INFO 2019-05-05 16:48:37,354 basehttp 124 "GET /list/115/1/?sort=price HTTP/1.1" 200 20179
+WARNING 2019-05-05 16:48:37,405 base 152 Not Found: /carts/simple/
+WARNING 2019-05-05 16:48:37,407 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6090
+INFO 2019-05-05 16:48:37,412 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 585
+INFO 2019-05-05 16:48:38,099 basehttp 124 "GET /list/115/1/?sort=price HTTP/1.1" 200 20179
+WARNING 2019-05-05 16:48:38,146 base 152 Not Found: /carts/simple/
+WARNING 2019-05-05 16:48:38,147 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6090
+INFO 2019-05-05 16:48:38,152 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 585
+INFO 2019-05-05 16:48:39,373 basehttp 124 "GET /list/115/1/?sort=default HTTP/1.1" 200 20117
+WARNING 2019-05-05 16:48:39,426 base 152 Not Found: /carts/simple/
+WARNING 2019-05-05 16:48:39,427 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6090
+INFO 2019-05-05 16:48:39,433 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 585
+INFO 2019-05-05 16:54:55,409 basehttp 124 "GET /list/115/1/?sort=default HTTP/1.1" 200 20117
+WARNING 2019-05-05 16:54:55,588 base 152 Not Found: /carts/simple/
+WARNING 2019-05-05 16:54:55,589 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6090
+INFO 2019-05-05 16:54:55,595 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 585
+INFO 2019-05-05 16:55:07,772 basehttp 124 "GET /list/115/1/?sort=default HTTP/1.1" 200 20117
+WARNING 2019-05-05 16:55:07,837 base 152 Not Found: /carts/simple/
+WARNING 2019-05-05 16:55:07,840 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6090
+INFO 2019-05-05 16:55:07,845 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 585
+INFO 2019-05-05 16:55:08,829 basehttp 124 "GET /list/115/2/?sort={{%20sort%20}} HTTP/1.1" 200 20166
+WARNING 2019-05-05 16:55:08,918 base 152 Not Found: /carts/simple/
+WARNING 2019-05-05 16:55:08,922 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6090
+INFO 2019-05-05 16:55:08,930 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 585
+INFO 2019-05-05 16:55:12,781 basehttp 124 "GET /list/115/1/?sort={{%20sort%20}} HTTP/1.1" 200 20117
+WARNING 2019-05-05 16:55:12,832 base 152 Not Found: /carts/simple/
+WARNING 2019-05-05 16:55:12,833 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6090
+INFO 2019-05-05 16:55:12,839 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 585
+INFO 2019-05-05 19:40:21,881 basehttp 124 "GET / HTTP/1.1" 200 124945
+WARNING 2019-05-05 19:40:22,686 base 152 Not Found: /carts/simple/
+WARNING 2019-05-05 19:40:22,686 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6198
+INFO 2019-05-05 19:40:25,966 basehttp 124 "GET /search/?q=1 HTTP/1.1" 200 4357
+INFO 2019-05-05 19:40:29,983 basehttp 124 "GET /search/?q=2 HTTP/1.1" 200 4360
+INFO 2019-05-05 19:40:33,289 basehttp 124 "GET /search/?q=3 HTTP/1.1" 200 4378
+INFO 2019-05-05 19:40:37,097 basehttp 124 "GET /search/?q=apple HTTP/1.1" 200 6572
+INFO 2019-05-05 19:42:18,388 basehttp 124 "GET / HTTP/1.1" 200 124945
+WARNING 2019-05-05 19:42:18,597 base 152 Not Found: /carts/simple/
+WARNING 2019-05-05 19:42:18,597 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6198
+WARNING 2019-05-05 19:42:39,703 basehttp 124 "GET /static/js/axios.min.map HTTP/1.1" 404 1661
+INFO 2019-05-05 19:43:28,924 basehttp 124 "GET /search/?q=1 HTTP/1.1" 200 4357
+INFO 2019-05-05 19:44:17,871 basehttp 124 "GET /search/?q=1 HTTP/1.1" 200 4357
+INFO 2019-05-05 21:21:33,515 basehttp 124 "GET / HTTP/1.1" 200 124945
+WARNING 2019-05-05 21:21:33,727 base 152 Not Found: /carts/simple/
+WARNING 2019-05-05 21:21:33,728 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6198
+INFO 2019-05-06 15:17:25,734 basehttp 124 "GET / HTTP/1.1" 200 124945
+INFO 2019-05-06 15:17:25,756 basehttp 124 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+WARNING 2019-05-06 15:17:26,552 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 15:17:26,552 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6392
+INFO 2019-05-06 15:17:32,446 basehttp 124 "GET /detail/1 HTTP/1.1" 301 0
+INFO 2019-05-06 15:17:32,456 basehttp 124 "GET /detail/1/ HTTP/1.1" 200 14035
+WARNING 2019-05-06 15:17:32,486 base 152 Not Found: /detail/static/css/main.css
+WARNING 2019-05-06 15:17:32,493 base 152 Not Found: /detail/static/js/vue-2.5.16.js
+WARNING 2019-05-06 15:17:32,505 base 152 Not Found: /detail/static/css/reset.css
+WARNING 2019-05-06 15:17:32,506 basehttp 124 "GET /detail/static/css/main.css HTTP/1.1" 404 6431
+WARNING 2019-05-06 15:17:32,504 base 152 Not Found: /detail/static/js/host.js
+WARNING 2019-05-06 15:17:32,506 basehttp 124 "GET /detail/static/js/vue-2.5.16.js HTTP/1.1" 404 6443
+WARNING 2019-05-06 15:17:32,512 base 152 Not Found: /detail/static/js/axios-0.18.0.min.js
+WARNING 2019-05-06 15:17:32,513 base 152 Not Found: /detail/static/images/goods/goods001.jpg
+WARNING 2019-05-06 15:17:32,513 basehttp 124 "GET /detail/static/css/reset.css HTTP/1.1" 404 6434
+WARNING 2019-05-06 15:17:32,514 basehttp 124 "GET /detail/static/js/host.js HTTP/1.1" 404 6425
+WARNING 2019-05-06 15:17:32,515 basehttp 124 "GET /detail/static/images/goods/goods001.jpg HTTP/1.1" 404 6470
+WARNING 2019-05-06 15:17:32,516 basehttp 124 "GET /detail/static/js/axios-0.18.0.min.js HTTP/1.1" 404 6461
+INFO 2019-05-06 15:17:32,517 basehttp 124 "GET /static/images/logo02.png HTTP/1.1" 200 8466
+WARNING 2019-05-06 15:17:32,524 base 152 Not Found: /detail/static/js/vue-2.5.16.js
+WARNING 2019-05-06 15:17:32,529 base 152 Not Found: /detail/static/js/common.js
+WARNING 2019-05-06 15:17:32,529 basehttp 124 "GET /detail/static/js/vue-2.5.16.js HTTP/1.1" 404 6443
+WARNING 2019-05-06 15:17:32,534 base 152 Not Found: /detail/static/js/detail.js
+WARNING 2019-05-06 15:17:32,535 basehttp 124 "GET /detail/static/js/common.js HTTP/1.1" 404 6431
+WARNING 2019-05-06 15:17:32,541 base 152 Not Found: /detail/static/js/axios-0.18.0.min.js
+WARNING 2019-05-06 15:17:32,541 basehttp 124 "GET /detail/static/js/detail.js HTTP/1.1" 404 6431
+WARNING 2019-05-06 15:17:32,541 basehttp 124 "GET /detail/static/js/axios-0.18.0.min.js HTTP/1.1" 404 6461
+WARNING 2019-05-06 15:17:32,546 base 152 Not Found: /detail/static/images/goods/goods002.jpg
+WARNING 2019-05-06 15:17:32,551 base 152 Not Found: /detail/static/images/goods_450.jpg
+WARNING 2019-05-06 15:17:32,556 base 152 Not Found: /detail/static/images/cat.jpg
+WARNING 2019-05-06 15:17:32,556 basehttp 124 "GET /detail/static/images/goods/goods002.jpg HTTP/1.1" 404 6470
+WARNING 2019-05-06 15:17:32,557 basehttp 124 "GET /detail/static/images/cat.jpg HTTP/1.1" 404 6437
+WARNING 2019-05-06 15:17:32,557 basehttp 124 "GET /detail/static/images/goods_450.jpg HTTP/1.1" 404 6455
+WARNING 2019-05-06 15:17:32,603 base 152 Not Found: /detail/static/js/common.js
+WARNING 2019-05-06 15:17:32,603 basehttp 124 "GET /detail/static/js/common.js HTTP/1.1" 404 6431
+WARNING 2019-05-06 15:17:32,612 base 152 Not Found: /detail/static/js/detail.js
+WARNING 2019-05-06 15:17:32,612 basehttp 124 "GET /detail/static/js/detail.js HTTP/1.1" 404 6431
+WARNING 2019-05-06 15:17:32,625 base 152 Not Found: /favicon.ico
+WARNING 2019-05-06 15:17:32,626 basehttp 124 "GET /favicon.ico HTTP/1.1" 404 6386
+INFO 2019-05-06 15:21:42,446 basehttp 124 "GET /detail/1/ HTTP/1.1" 200 976
+WARNING 2019-05-06 15:21:42,463 base 152 Not Found: /detail/static/css/reset.css
+WARNING 2019-05-06 15:21:42,469 base 152 Not Found: /detail/static/images/logo.png
+WARNING 2019-05-06 15:21:42,474 base 152 Not Found: /detail/static/images/missing.png
+WARNING 2019-05-06 15:21:42,474 basehttp 124 "GET /detail/static/css/reset.css HTTP/1.1" 404 6434
+WARNING 2019-05-06 15:21:42,475 basehttp 124 "GET /detail/static/images/logo.png HTTP/1.1" 404 6440
+WARNING 2019-05-06 15:21:42,475 basehttp 124 "GET /detail/static/images/missing.png HTTP/1.1" 404 6449
+INFO 2019-05-06 15:21:53,205 basehttp 124 "GET / HTTP/1.1" 200 124945
+WARNING 2019-05-06 15:21:54,404 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 15:21:54,404 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6392
+INFO 2019-05-06 15:21:57,827 basehttp 124 "GET /list/115/1/ HTTP/1.1" 200 20029
+WARNING 2019-05-06 15:21:57,890 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 15:21:57,893 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6392
+INFO 2019-05-06 15:21:57,900 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 585
+WARNING 2019-05-06 15:22:06,795 base 152 Not Found: /list/115/1/detail.html
+WARNING 2019-05-06 15:22:06,796 basehttp 124 "GET /list/115/1/detail.html HTTP/1.1" 404 6419
+WARNING 2019-05-06 15:23:16,854 base 152 Not Found: /list/115/1/detail.html
+WARNING 2019-05-06 15:23:16,855 basehttp 124 "GET /list/115/1/detail.html HTTP/1.1" 404 6419
+WARNING 2019-05-06 15:23:18,734 base 152 Not Found: /list/115/1/detail.html
+WARNING 2019-05-06 15:23:18,735 basehttp 124 "GET /list/115/1/detail.html HTTP/1.1" 404 6419
+INFO 2019-05-06 15:23:21,449 basehttp 124 "GET /list/115/1/ HTTP/1.1" 200 19232
+WARNING 2019-05-06 15:23:21,492 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 15:23:21,494 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6392
+INFO 2019-05-06 15:23:21,503 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 585
+INFO 2019-05-06 15:23:21,655 basehttp 124 "GET /list/115/1/ HTTP/1.1" 200 19232
+INFO 2019-05-06 15:23:21,809 basehttp 124 "GET /list/115/1/ HTTP/1.1" 200 19232
+WARNING 2019-05-06 15:23:21,857 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 15:23:21,857 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6392
+INFO 2019-05-06 15:23:21,864 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 585
+INFO 2019-05-06 15:23:22,498 basehttp 124 "GET /detail/3/ HTTP/1.1" 200 976
+WARNING 2019-05-06 15:23:22,514 base 152 Not Found: /detail/static/css/reset.css
+WARNING 2019-05-06 15:23:22,522 base 152 Not Found: /detail/static/images/logo.png
+WARNING 2019-05-06 15:23:22,530 base 152 Not Found: /detail/static/images/missing.png
+WARNING 2019-05-06 15:23:22,530 basehttp 124 "GET /detail/static/css/reset.css HTTP/1.1" 404 6434
+WARNING 2019-05-06 15:23:22,531 basehttp 124 "GET /detail/static/images/logo.png HTTP/1.1" 404 6440
+WARNING 2019-05-06 15:23:22,532 basehttp 124 "GET /detail/static/images/missing.png HTTP/1.1" 404 6449
+INFO 2019-05-06 16:06:47,112 basehttp 124 "GET /list/115/1/ HTTP/1.1" 200 19232
+WARNING 2019-05-06 16:06:47,174 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 16:06:47,177 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6392
+INFO 2019-05-06 16:06:47,184 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 585
+INFO 2019-05-06 16:06:48,447 utils 99 <QuerySet [<GoodsChannel: 手机>]>
+INFO 2019-05-06 16:06:48,478 basehttp 124 "GET /detail/3/ HTTP/1.1" 200 19080
+WARNING 2019-05-06 16:06:48,499 base 152 Not Found: /detail/static/css/main.css
+WARNING 2019-05-06 16:06:48,500 base 152 Not Found: /detail/static/css/reset.css
+WARNING 2019-05-06 16:06:48,505 base 152 Not Found: /detail/static/js/host.js
+WARNING 2019-05-06 16:06:48,505 basehttp 124 "GET /detail/static/css/main.css HTTP/1.1" 404 6431
+WARNING 2019-05-06 16:06:48,511 base 152 Not Found: /detail/static/js/vue-2.5.16.js
+WARNING 2019-05-06 16:06:48,511 basehttp 124 "GET /detail/static/css/reset.css HTTP/1.1" 404 6434
+WARNING 2019-05-06 16:06:48,515 base 152 Not Found: /detail/static/js/axios-0.18.0.min.js
+WARNING 2019-05-06 16:06:48,516 basehttp 124 "GET /detail/static/js/host.js HTTP/1.1" 404 6425
+WARNING 2019-05-06 16:06:48,516 basehttp 124 "GET /detail/static/js/vue-2.5.16.js HTTP/1.1" 404 6443
+WARNING 2019-05-06 16:06:48,521 base 152 Not Found: /detail/static/images/goods/goods001.jpg
+WARNING 2019-05-06 16:06:48,522 basehttp 124 "GET /detail/static/js/axios-0.18.0.min.js HTTP/1.1" 404 6461
+WARNING 2019-05-06 16:06:48,526 base 152 Not Found: /detail/static/js/common.js
+WARNING 2019-05-06 16:06:48,531 base 152 Not Found: /detail/static/js/detail.js
+WARNING 2019-05-06 16:06:48,535 base 152 Not Found: /detail/static/images/goods/goods002.jpg
+WARNING 2019-05-06 16:06:48,536 basehttp 124 "GET /detail/static/images/goods/goods001.jpg HTTP/1.1" 404 6470
+WARNING 2019-05-06 16:06:48,541 base 152 Not Found: /detail/static/images/cat.jpg
+WARNING 2019-05-06 16:06:48,542 basehttp 124 "GET /detail/static/js/detail.js HTTP/1.1" 404 6431
+WARNING 2019-05-06 16:06:48,543 basehttp 124 "GET /detail/static/js/common.js HTTP/1.1" 404 6431
+WARNING 2019-05-06 16:06:48,543 basehttp 124 "GET /detail/static/images/goods/goods002.jpg HTTP/1.1" 404 6470
+WARNING 2019-05-06 16:06:48,544 basehttp 124 "GET /detail/static/images/cat.jpg HTTP/1.1" 404 6437
+INFO 2019-05-06 16:07:38,663 basehttp 124 "GET /list/115/1/ HTTP/1.1" 200 19232
+WARNING 2019-05-06 16:07:38,733 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 16:07:38,735 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6392
+INFO 2019-05-06 16:07:38,740 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 585
+INFO 2019-05-06 16:07:39,763 utils 99 <QuerySet [<GoodsChannel: 手机>]>
+INFO 2019-05-06 16:07:39,817 basehttp 124 "GET /detail/3/ HTTP/1.1" 200 17686
+WARNING 2019-05-06 16:07:39,837 base 152 Not Found: /detail/static/images/goods/goods001.jpg
+WARNING 2019-05-06 16:07:39,838 basehttp 124 "GET /detail/static/images/goods/goods001.jpg HTTP/1.1" 404 6470
+WARNING 2019-05-06 16:07:39,858 base 152 Not Found: /detail/static/images/goods/goods002.jpg
+WARNING 2019-05-06 16:07:39,858 basehttp 124 "GET /detail/static/images/goods/goods002.jpg HTTP/1.1" 404 6470
+INFO 2019-05-06 16:07:39,860 basehttp 124 "GET /static/js/detail.js HTTP/1.1" 200 15702
+WARNING 2019-05-06 16:07:39,911 base 152 Not Found: /detail/static/images/goods/goods002.jpg
+WARNING 2019-05-06 16:07:39,912 basehttp 124 "GET /detail/static/images/goods/goods002.jpg HTTP/1.1" 404 6470
+WARNING 2019-05-06 16:07:39,924 base 152 Not Found: /browse_histories/
+WARNING 2019-05-06 16:07:39,934 base 152 Not Found: /detail/visit/115/
+WARNING 2019-05-06 16:07:39,943 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 16:07:39,943 basehttp 124 "POST /detail/visit/115/ HTTP/1.1" 404 6405
+WARNING 2019-05-06 16:07:39,949 basehttp 124 "POST /browse_histories/ HTTP/1.1" 404 6405
+WARNING 2019-05-06 16:07:39,949 base 152 Not Found: /comment/3/
+WARNING 2019-05-06 16:07:39,950 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6392
+WARNING 2019-05-06 16:07:39,952 basehttp 124 "GET /comment/3/ HTTP/1.1" 404 6383
+INFO 2019-05-06 16:07:39,956 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 585
+INFO 2019-05-06 16:07:47,488 utils 99 <QuerySet [<GoodsChannel: 手机>]>
+INFO 2019-05-06 16:07:47,511 basehttp 124 "GET /detail/4/ HTTP/1.1" 200 17687
+WARNING 2019-05-06 16:07:47,524 base 152 Not Found: /detail/static/images/goods/goods001.jpg
+WARNING 2019-05-06 16:07:47,524 basehttp 124 "GET /detail/static/images/goods/goods001.jpg HTTP/1.1" 404 6470
+WARNING 2019-05-06 16:07:47,536 base 152 Not Found: /detail/static/images/goods/goods002.jpg
+WARNING 2019-05-06 16:07:47,537 basehttp 124 "GET /detail/static/images/goods/goods002.jpg HTTP/1.1" 404 6470
+WARNING 2019-05-06 16:07:47,571 base 152 Not Found: /browse_histories/
+WARNING 2019-05-06 16:07:47,578 basehttp 124 "POST /browse_histories/ HTTP/1.1" 404 6405
+WARNING 2019-05-06 16:07:47,578 base 152 Not Found: /detail/visit/115/
+WARNING 2019-05-06 16:07:47,583 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 16:07:47,589 base 152 Not Found: /comment/4/
+WARNING 2019-05-06 16:07:47,591 basehttp 124 "POST /detail/visit/115/ HTTP/1.1" 404 6405
+WARNING 2019-05-06 16:07:47,592 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6392
+WARNING 2019-05-06 16:07:47,593 basehttp 124 "GET /comment/4/ HTTP/1.1" 404 6383
+INFO 2019-05-06 16:07:47,597 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 585
+INFO 2019-05-06 16:07:48,764 utils 99 <QuerySet [<GoodsChannel: 手机>]>
+INFO 2019-05-06 16:07:48,807 basehttp 124 "GET /detail/5/ HTTP/1.1" 200 17692
+WARNING 2019-05-06 16:07:48,824 base 152 Not Found: /detail/static/images/goods/goods001.jpg
+WARNING 2019-05-06 16:07:48,831 base 152 Not Found: /detail/static/images/goods/goods002.jpg
+WARNING 2019-05-06 16:07:48,832 basehttp 124 "GET /detail/static/images/goods/goods001.jpg HTTP/1.1" 404 6470
+WARNING 2019-05-06 16:07:48,833 basehttp 124 "GET /detail/static/images/goods/goods002.jpg HTTP/1.1" 404 6470
+WARNING 2019-05-06 16:07:48,869 base 152 Not Found: /browse_histories/
+WARNING 2019-05-06 16:07:48,874 base 152 Not Found: /detail/visit/115/
+WARNING 2019-05-06 16:07:48,880 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 16:07:48,880 basehttp 124 "POST /browse_histories/ HTTP/1.1" 404 6405
+WARNING 2019-05-06 16:07:48,885 base 152 Not Found: /comment/5/
+WARNING 2019-05-06 16:07:48,886 basehttp 124 "POST /detail/visit/115/ HTTP/1.1" 404 6405
+WARNING 2019-05-06 16:07:48,886 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6392
+WARNING 2019-05-06 16:07:48,887 basehttp 124 "GET /comment/5/ HTTP/1.1" 404 6383
+INFO 2019-05-06 16:07:48,892 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 585
+INFO 2019-05-06 16:07:50,343 utils 99 <QuerySet [<GoodsChannel: 手机>]>
+INFO 2019-05-06 16:07:50,367 basehttp 124 "GET /detail/7/ HTTP/1.1" 200 17686
+WARNING 2019-05-06 16:07:50,380 base 152 Not Found: /detail/static/images/goods/goods001.jpg
+WARNING 2019-05-06 16:07:50,387 base 152 Not Found: /detail/static/images/goods/goods002.jpg
+WARNING 2019-05-06 16:07:50,387 basehttp 124 "GET /detail/static/images/goods/goods001.jpg HTTP/1.1" 404 6470
+WARNING 2019-05-06 16:07:50,388 basehttp 124 "GET /detail/static/images/goods/goods002.jpg HTTP/1.1" 404 6470
+WARNING 2019-05-06 16:07:50,427 base 152 Not Found: /browse_histories/
+WARNING 2019-05-06 16:07:50,434 base 152 Not Found: /detail/visit/115/
+WARNING 2019-05-06 16:07:50,441 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 16:07:50,441 basehttp 124 "POST /browse_histories/ HTTP/1.1" 404 6405
+WARNING 2019-05-06 16:07:50,448 base 152 Not Found: /comment/7/
+WARNING 2019-05-06 16:07:50,449 basehttp 124 "POST /detail/visit/115/ HTTP/1.1" 404 6405
+WARNING 2019-05-06 16:07:50,449 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6392
+WARNING 2019-05-06 16:07:50,450 basehttp 124 "GET /comment/7/ HTTP/1.1" 404 6383
+INFO 2019-05-06 16:07:50,454 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 585
+INFO 2019-05-06 16:07:52,293 utils 99 <QuerySet [<GoodsChannel: 手机>]>
+INFO 2019-05-06 16:07:52,315 basehttp 124 "GET /detail/7/ HTTP/1.1" 200 17686
+WARNING 2019-05-06 16:07:52,330 base 152 Not Found: /detail/static/images/goods/goods001.jpg
+WARNING 2019-05-06 16:07:52,337 base 152 Not Found: /detail/static/images/goods/goods002.jpg
+WARNING 2019-05-06 16:07:52,338 basehttp 124 "GET /detail/static/images/goods/goods001.jpg HTTP/1.1" 404 6470
+WARNING 2019-05-06 16:07:52,338 basehttp 124 "GET /detail/static/images/goods/goods002.jpg HTTP/1.1" 404 6470
+WARNING 2019-05-06 16:07:52,401 base 152 Not Found: /browse_histories/
+WARNING 2019-05-06 16:07:52,405 base 152 Not Found: /detail/visit/115/
+WARNING 2019-05-06 16:07:52,406 basehttp 124 "POST /detail/visit/115/ HTTP/1.1" 404 6405
+WARNING 2019-05-06 16:07:52,412 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 16:07:52,413 basehttp 124 "POST /browse_histories/ HTTP/1.1" 404 6405
+WARNING 2019-05-06 16:07:52,413 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6392
+WARNING 2019-05-06 16:07:52,418 base 152 Not Found: /comment/7/
+WARNING 2019-05-06 16:07:52,419 basehttp 124 "GET /comment/7/ HTTP/1.1" 404 6383
+INFO 2019-05-06 16:07:52,422 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 585
+INFO 2019-05-06 16:08:09,272 basehttp 124 "GET /list/115/2/?sort={{%20sort%20}} HTTP/1.1" 200 19287
+WARNING 2019-05-06 16:08:09,341 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 16:08:09,342 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6392
+INFO 2019-05-06 16:08:09,351 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 585
+INFO 2019-05-06 16:08:12,275 basehttp 124 "GET /list/115/1/?sort={{%20sort%20}} HTTP/1.1" 200 19232
+WARNING 2019-05-06 16:08:12,320 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 16:08:12,321 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6392
+INFO 2019-05-06 16:08:12,328 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 585
+WARNING 2019-05-06 16:08:20,032 base 152 Not Found: /list/115/1/{{ no such element: goods.models.GoodsCategory object['url'] }}
+WARNING 2019-05-06 16:08:20,033 basehttp 124 "GET /list/115/1/%7B%7B%20no%20such%20element:%20goods.models.GoodsCategory%20object['url']%20%7D%7D HTTP/1.1" 404 6623
+WARNING 2019-05-06 16:30:57,875 base 152 Not Found: /list/115/1/index.html
+WARNING 2019-05-06 16:30:57,876 basehttp 124 "GET /list/115/1/index.html HTTP/1.1" 404 6606
+WARNING 2019-05-06 16:31:01,301 base 152 Not Found: /list/115/1/index.html
+WARNING 2019-05-06 16:31:01,301 basehttp 124 "GET /list/115/1/index.html HTTP/1.1" 404 6606
+INFO 2019-05-06 16:31:02,976 basehttp 124 "GET / HTTP/1.1" 200 124945
+WARNING 2019-05-06 16:31:03,408 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 16:31:03,409 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6582
+INFO 2019-05-06 16:31:05,468 basehttp 124 "GET /list/115/1/ HTTP/1.1" 200 19232
+WARNING 2019-05-06 16:31:05,529 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 16:31:05,532 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6582
+INFO 2019-05-06 16:31:05,537 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 585
+INFO 2019-05-06 16:31:12,261 utils 99 <QuerySet [<GoodsChannel: 手机>]>
+INFO 2019-05-06 16:31:12,299 basehttp 124 "GET /detail/3/ HTTP/1.1" 200 17962
+WARNING 2019-05-06 16:31:12,313 base 152 Not Found: /detail/static/images/goods/goods001.jpg
+WARNING 2019-05-06 16:31:12,314 basehttp 124 "GET /detail/static/images/goods/goods001.jpg HTTP/1.1" 404 6660
+WARNING 2019-05-06 16:31:12,326 base 152 Not Found: /detail/static/images/goods/goods002.jpg
+WARNING 2019-05-06 16:31:12,327 basehttp 124 "GET /detail/static/images/goods/goods002.jpg HTTP/1.1" 404 6660
+WARNING 2019-05-06 16:31:12,363 base 152 Not Found: /detail/static/images/goods/goods001.jpg
+WARNING 2019-05-06 16:31:12,372 base 152 Not Found: /browse_histories/
+WARNING 2019-05-06 16:31:12,372 basehttp 124 "GET /detail/static/images/goods/goods001.jpg HTTP/1.1" 404 6660
+WARNING 2019-05-06 16:31:12,382 basehttp 124 "POST /browse_histories/ HTTP/1.1" 404 6595
+WARNING 2019-05-06 16:31:12,384 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 16:31:12,391 base 152 Not Found: /comment/3/
+WARNING 2019-05-06 16:31:12,391 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6582
+WARNING 2019-05-06 16:31:12,394 basehttp 124 "GET /comment/3/ HTTP/1.1" 404 6573
+INFO 2019-05-06 16:31:12,399 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 585
+INFO 2019-05-06 16:31:12,410 basehttp 124 "POST /detail/visit/115/ HTTP/1.1" 200 30
+INFO 2019-05-06 16:31:20,878 utils 99 <QuerySet [<GoodsChannel: 手机>]>
+INFO 2019-05-06 16:31:20,901 basehttp 124 "GET /detail/4/ HTTP/1.1" 200 17963
+WARNING 2019-05-06 16:31:20,918 base 152 Not Found: /detail/static/images/goods/goods001.jpg
+WARNING 2019-05-06 16:31:20,923 base 152 Not Found: /detail/static/images/goods/goods002.jpg
+WARNING 2019-05-06 16:31:20,923 basehttp 124 "GET /detail/static/images/goods/goods001.jpg HTTP/1.1" 404 6660
+WARNING 2019-05-06 16:31:20,924 basehttp 124 "GET /detail/static/images/goods/goods002.jpg HTTP/1.1" 404 6660
+WARNING 2019-05-06 16:31:20,962 base 152 Not Found: /browse_histories/
+WARNING 2019-05-06 16:31:20,969 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 16:31:20,970 basehttp 124 "POST /browse_histories/ HTTP/1.1" 404 6595
+WARNING 2019-05-06 16:31:20,970 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6582
+WARNING 2019-05-06 16:31:20,978 base 152 Not Found: /comment/4/
+WARNING 2019-05-06 16:31:20,979 basehttp 124 "GET /comment/4/ HTTP/1.1" 404 6573
+INFO 2019-05-06 16:31:20,984 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 585
+INFO 2019-05-06 16:31:20,989 basehttp 124 "POST /detail/visit/115/ HTTP/1.1" 200 30
+INFO 2019-05-06 16:56:55,704 basehttp 124 "GET / HTTP/1.1" 200 124945
+WARNING 2019-05-06 16:56:55,913 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 16:56:55,914 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6749
+INFO 2019-05-06 16:56:57,487 basehttp 124 "GET /login/ HTTP/1.1" 200 4192
+INFO 2019-05-06 16:56:57,500 basehttp 124 "GET /static/js/login.js HTTP/1.1" 200 5212
+INFO 2019-05-06 16:56:57,517 basehttp 124 "GET /static/images/login_banner.png HTTP/1.1" 200 319312
+INFO 2019-05-06 16:57:02,141 basehttp 124 "POST /login/ HTTP/1.1" 200 4304
+INFO 2019-05-06 16:57:10,705 basehttp 124 "POST /login/ HTTP/1.1" 200 4304
+INFO 2019-05-06 16:57:14,883 basehttp 124 "POST /login/ HTTP/1.1" 302 0
+INFO 2019-05-06 16:57:15,056 basehttp 124 "GET / HTTP/1.1" 200 124945
+WARNING 2019-05-06 16:57:15,221 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 16:57:15,222 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6749
+INFO 2019-05-06 16:57:17,438 basehttp 124 "GET /info/ HTTP/1.1" 200 6286
+ERROR 2019-05-06 16:57:17,506 exception 135 Internal Server Error: /browse_histories/
+Traceback (most recent call last):
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/c/Documents/mddproject/mddproject/mdd_mall/mdd_mall/utils/views.py", line 27, in wrapper
+    return view_func(request,*args,**kwargs)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/views/generic/base.py", line 88, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/c/Documents/mddproject/mddproject/mdd_mall/mdd_mall/apps/users/views.py", line 427, in get
+    'id':sku.id,
+AttributeError: 'Pipeline' object has no attribute 'id'
+ERROR 2019-05-06 16:57:17,549 basehttp 124 "GET /browse_histories/ HTTP/1.1" 500 83402
+INFO 2019-05-06 16:57:26,779 basehttp 124 "GET / HTTP/1.1" 200 124945
+WARNING 2019-05-06 16:57:26,956 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 16:57:26,957 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6749
+INFO 2019-05-06 16:57:36,371 basehttp 124 "GET /list/115/1/ HTTP/1.1" 200 19232
+WARNING 2019-05-06 16:57:36,440 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 16:57:36,443 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6749
+INFO 2019-05-06 16:57:36,449 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 585
+INFO 2019-05-06 16:57:37,196 utils 99 <QuerySet [<GoodsChannel: 手机>]>
+INFO 2019-05-06 16:57:37,233 basehttp 124 "GET /detail/3/ HTTP/1.1" 200 17962
+WARNING 2019-05-06 16:57:37,248 base 152 Not Found: /detail/static/images/goods/goods001.jpg
+WARNING 2019-05-06 16:57:37,249 basehttp 124 "GET /detail/static/images/goods/goods001.jpg HTTP/1.1" 404 6827
+WARNING 2019-05-06 16:57:37,259 base 152 Not Found: /detail/static/images/goods/goods002.jpg
+WARNING 2019-05-06 16:57:37,260 basehttp 124 "GET /detail/static/images/goods/goods002.jpg HTTP/1.1" 404 6827
+WARNING 2019-05-06 16:57:37,296 base 152 Not Found: /detail/static/images/goods/goods001.jpg
+WARNING 2019-05-06 16:57:37,298 basehttp 124 "GET /detail/static/images/goods/goods001.jpg HTTP/1.1" 404 6827
+WARNING 2019-05-06 16:57:37,308 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 16:57:37,317 base 152 Not Found: /comment/3/
+WARNING 2019-05-06 16:57:37,318 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6749
+WARNING 2019-05-06 16:57:37,321 basehttp 124 "GET /comment/3/ HTTP/1.1" 404 6740
+INFO 2019-05-06 16:57:37,324 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 585
+INFO 2019-05-06 16:57:37,333 basehttp 124 "POST /browse_histories/ HTTP/1.1" 200 29
+INFO 2019-05-06 16:57:37,336 basehttp 124 "POST /detail/visit/115/ HTTP/1.1" 200 30
+WARNING 2019-05-06 16:57:39,203 base 152 Not Found: /detail/3/user_center_info.html
+WARNING 2019-05-06 16:57:39,203 basehttp 124 "GET /detail/3/user_center_info.html HTTP/1.1" 404 6800
+INFO 2019-05-06 16:57:40,433 basehttp 124 "POST /browse_histories/ HTTP/1.1" 200 29
+INFO 2019-05-06 16:57:40,438 basehttp 124 "POST /detail/visit/115/ HTTP/1.1" 200 30
+INFO 2019-05-06 16:57:42,035 basehttp 124 "GET / HTTP/1.1" 200 124945
+WARNING 2019-05-06 16:57:42,342 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 16:57:42,342 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6749
+INFO 2019-05-06 16:57:44,423 basehttp 124 "GET /info/ HTTP/1.1" 200 6286
+ERROR 2019-05-06 16:57:44,511 exception 135 Internal Server Error: /browse_histories/
+Traceback (most recent call last):
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/c/Documents/mddproject/mddproject/mdd_mall/mdd_mall/utils/views.py", line 27, in wrapper
+    return view_func(request,*args,**kwargs)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/views/generic/base.py", line 88, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/c/Documents/mddproject/mddproject/mdd_mall/mdd_mall/apps/users/views.py", line 427, in get
+    'id':sku.id,
+AttributeError: 'Pipeline' object has no attribute 'id'
+ERROR 2019-05-06 16:57:44,546 basehttp 124 "GET /browse_histories/ HTTP/1.1" 500 83403
+INFO 2019-05-06 16:59:14,446 basehttp 124 "GET /info/ HTTP/1.1" 200 6286
+ERROR 2019-05-06 16:59:14,509 exception 135 Internal Server Error: /browse_histories/
+Traceback (most recent call last):
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/c/Documents/mddproject/mddproject/mdd_mall/mdd_mall/utils/views.py", line 27, in wrapper
+    return view_func(request,*args,**kwargs)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/views/generic/base.py", line 88, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/c/Documents/mddproject/mddproject/mdd_mall/mdd_mall/apps/users/views.py", line 426, in get
+    sku=SKU.objects.get(id=sku)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/db/models/query.py", line 371, in get
+    clone = self.filter(*args, **kwargs)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/db/models/query.py", line 784, in filter
+    return self._filter_or_exclude(False, *args, **kwargs)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/db/models/query.py", line 802, in _filter_or_exclude
+    clone.query.add_q(Q(*args, **kwargs))
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1250, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1276, in _add_q
+    allow_joins=allow_joins, split_subq=split_subq,
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1210, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1104, in build_lookup
+    return final_lookup(lhs, rhs)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/db/models/lookups.py", line 24, in __init__
+    self.rhs = self.get_prep_lookup()
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/db/models/lookups.py", line 74, in get_prep_lookup
+    return self.lhs.output_field.get_prep_value(self.rhs)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/db/models/fields/__init__.py", line 966, in get_prep_value
+    return int(value)
+TypeError: int() argument must be a string, a bytes-like object or a number, not 'Pipeline'
+ERROR 2019-05-06 16:59:14,570 basehttp 124 "GET /browse_histories/ HTTP/1.1" 500 139254
+INFO 2019-05-06 16:59:19,515 basehttp 124 "GET / HTTP/1.1" 200 124945
+WARNING 2019-05-06 16:59:19,778 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 16:59:19,779 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6749
+INFO 2019-05-06 16:59:29,490 basehttp 124 "GET /list/115/1/ HTTP/1.1" 200 19232
+WARNING 2019-05-06 16:59:29,566 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 16:59:29,568 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6749
+INFO 2019-05-06 16:59:29,572 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 585
+INFO 2019-05-06 17:00:24,877 basehttp 124 "GET / HTTP/1.1" 200 124945
+WARNING 2019-05-06 17:00:25,109 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 17:00:25,109 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6749
+INFO 2019-05-06 17:00:29,543 basehttp 124 "GET /list/115/1/ HTTP/1.1" 200 19232
+WARNING 2019-05-06 17:00:29,595 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 17:00:29,597 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6749
+INFO 2019-05-06 17:00:29,602 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 585
+INFO 2019-05-06 17:00:31,101 basehttp 124 "GET /list/115/2/?sort={{%20sort%20}} HTTP/1.1" 200 19287
+WARNING 2019-05-06 17:00:31,156 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 17:00:31,158 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6749
+INFO 2019-05-06 17:00:31,163 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 585
+INFO 2019-05-06 17:00:39,806 basehttp 124 "GET /list/115/1/?sort={{%20sort%20}} HTTP/1.1" 200 19232
+WARNING 2019-05-06 17:00:39,855 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 17:00:39,857 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6749
+INFO 2019-05-06 17:00:39,862 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 585
+INFO 2019-05-06 17:00:41,811 utils 99 <QuerySet [<GoodsChannel: 手机>]>
+INFO 2019-05-06 17:00:41,851 basehttp 124 "GET /detail/3/ HTTP/1.1" 200 17962
+WARNING 2019-05-06 17:00:41,865 base 152 Not Found: /detail/static/images/goods/goods001.jpg
+WARNING 2019-05-06 17:00:41,865 basehttp 124 "GET /detail/static/images/goods/goods001.jpg HTTP/1.1" 404 6827
+WARNING 2019-05-06 17:00:41,878 base 152 Not Found: /detail/static/images/goods/goods002.jpg
+WARNING 2019-05-06 17:00:41,878 basehttp 124 "GET /detail/static/images/goods/goods002.jpg HTTP/1.1" 404 6827
+WARNING 2019-05-06 17:00:41,916 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 17:00:41,921 base 152 Not Found: /comment/3/
+WARNING 2019-05-06 17:00:41,922 basehttp 124 "GET /comment/3/ HTTP/1.1" 404 6740
+WARNING 2019-05-06 17:00:41,923 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6749
+INFO 2019-05-06 17:00:41,930 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 585
+INFO 2019-05-06 17:00:41,933 basehttp 124 "POST /browse_histories/ HTTP/1.1" 200 29
+INFO 2019-05-06 17:00:41,941 basehttp 124 "POST /detail/visit/115/ HTTP/1.1" 200 30
+INFO 2019-05-06 17:00:44,030 utils 99 <QuerySet [<GoodsChannel: 手机>]>
+INFO 2019-05-06 17:00:44,056 basehttp 124 "GET /detail/4/ HTTP/1.1" 200 17963
+WARNING 2019-05-06 17:00:44,069 base 152 Not Found: /detail/static/images/goods/goods001.jpg
+WARNING 2019-05-06 17:00:44,074 base 152 Not Found: /detail/static/images/goods/goods002.jpg
+WARNING 2019-05-06 17:00:44,075 basehttp 124 "GET /detail/static/images/goods/goods002.jpg HTTP/1.1" 404 6827
+WARNING 2019-05-06 17:00:44,075 basehttp 124 "GET /detail/static/images/goods/goods001.jpg HTTP/1.1" 404 6827
+WARNING 2019-05-06 17:00:44,112 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 17:00:44,118 base 152 Not Found: /comment/4/
+WARNING 2019-05-06 17:00:44,119 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6749
+WARNING 2019-05-06 17:00:44,121 basehttp 124 "GET /comment/4/ HTTP/1.1" 404 6740
+INFO 2019-05-06 17:00:44,130 basehttp 124 "POST /browse_histories/ HTTP/1.1" 200 29
+INFO 2019-05-06 17:00:44,130 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 585
+INFO 2019-05-06 17:00:44,133 basehttp 124 "POST /detail/visit/115/ HTTP/1.1" 200 30
+INFO 2019-05-06 17:00:47,941 basehttp 124 "GET / HTTP/1.1" 200 124945
+WARNING 2019-05-06 17:00:48,349 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 17:00:48,349 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6749
+INFO 2019-05-06 17:00:49,324 basehttp 124 "GET /info/ HTTP/1.1" 200 6286
+ERROR 2019-05-06 17:00:49,374 exception 135 Internal Server Error: /browse_histories/
+Traceback (most recent call last):
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/c/Documents/mddproject/mddproject/mdd_mall/mdd_mall/utils/views.py", line 27, in wrapper
+    return view_func(request,*args,**kwargs)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/views/generic/base.py", line 88, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/c/Documents/mddproject/mddproject/mdd_mall/mdd_mall/apps/users/views.py", line 426, in get
+    sku=SKU.objects.get(id=sku)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/db/models/query.py", line 371, in get
+    clone = self.filter(*args, **kwargs)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/db/models/query.py", line 784, in filter
+    return self._filter_or_exclude(False, *args, **kwargs)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/db/models/query.py", line 802, in _filter_or_exclude
+    clone.query.add_q(Q(*args, **kwargs))
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1250, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1276, in _add_q
+    allow_joins=allow_joins, split_subq=split_subq,
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1210, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1104, in build_lookup
+    return final_lookup(lhs, rhs)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/db/models/lookups.py", line 24, in __init__
+    self.rhs = self.get_prep_lookup()
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/db/models/lookups.py", line 74, in get_prep_lookup
+    return self.lhs.output_field.get_prep_value(self.rhs)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/db/models/fields/__init__.py", line 966, in get_prep_value
+    return int(value)
+TypeError: int() argument must be a string, a bytes-like object or a number, not 'Pipeline'
+ERROR 2019-05-06 17:00:49,430 basehttp 124 "GET /browse_histories/ HTTP/1.1" 500 139254
+INFO 2019-05-06 17:00:52,163 basehttp 124 "GET /info/ HTTP/1.1" 200 6286
+ERROR 2019-05-06 17:00:52,209 exception 135 Internal Server Error: /browse_histories/
+Traceback (most recent call last):
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/c/Documents/mddproject/mddproject/mdd_mall/mdd_mall/utils/views.py", line 27, in wrapper
+    return view_func(request,*args,**kwargs)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/views/generic/base.py", line 88, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/c/Documents/mddproject/mddproject/mdd_mall/mdd_mall/apps/users/views.py", line 426, in get
+    sku=SKU.objects.get(id=sku)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/db/models/query.py", line 371, in get
+    clone = self.filter(*args, **kwargs)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/db/models/query.py", line 784, in filter
+    return self._filter_or_exclude(False, *args, **kwargs)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/db/models/query.py", line 802, in _filter_or_exclude
+    clone.query.add_q(Q(*args, **kwargs))
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1250, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1276, in _add_q
+    allow_joins=allow_joins, split_subq=split_subq,
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1210, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1104, in build_lookup
+    return final_lookup(lhs, rhs)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/db/models/lookups.py", line 24, in __init__
+    self.rhs = self.get_prep_lookup()
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/db/models/lookups.py", line 74, in get_prep_lookup
+    return self.lhs.output_field.get_prep_value(self.rhs)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/db/models/fields/__init__.py", line 966, in get_prep_value
+    return int(value)
+TypeError: int() argument must be a string, a bytes-like object or a number, not 'Pipeline'
+ERROR 2019-05-06 17:00:52,258 basehttp 124 "GET /browse_histories/ HTTP/1.1" 500 139253
+INFO 2019-05-06 17:01:02,098 basehttp 124 "GET /info/ HTTP/1.1" 200 6286
+ERROR 2019-05-06 17:01:02,149 exception 135 Internal Server Error: /browse_histories/
+Traceback (most recent call last):
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/c/Documents/mddproject/mddproject/mdd_mall/mdd_mall/utils/views.py", line 27, in wrapper
+    return view_func(request,*args,**kwargs)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/views/generic/base.py", line 68, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/views/generic/base.py", line 88, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/c/Documents/mddproject/mddproject/mdd_mall/mdd_mall/apps/users/views.py", line 426, in get
+    sku=SKU.objects.get(id=sku)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/db/models/query.py", line 371, in get
+    clone = self.filter(*args, **kwargs)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/db/models/query.py", line 784, in filter
+    return self._filter_or_exclude(False, *args, **kwargs)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/db/models/query.py", line 802, in _filter_or_exclude
+    clone.query.add_q(Q(*args, **kwargs))
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1250, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1276, in _add_q
+    allow_joins=allow_joins, split_subq=split_subq,
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1210, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/db/models/sql/query.py", line 1104, in build_lookup
+    return final_lookup(lhs, rhs)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/db/models/lookups.py", line 24, in __init__
+    self.rhs = self.get_prep_lookup()
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/db/models/lookups.py", line 74, in get_prep_lookup
+    return self.lhs.output_field.get_prep_value(self.rhs)
+  File "/Users/c/Envs/mdd_mall/lib/python3.7/site-packages/django/db/models/fields/__init__.py", line 966, in get_prep_value
+    return int(value)
+TypeError: int() argument must be a string, a bytes-like object or a number, not 'Pipeline'
+ERROR 2019-05-06 17:01:02,216 basehttp 124 "GET /browse_histories/ HTTP/1.1" 500 139253
+INFO 2019-05-06 17:02:03,683 basehttp 124 "GET /info/ HTTP/1.1" 200 6286
+INFO 2019-05-06 17:02:03,729 basehttp 124 "GET /browse_histories/ HTTP/1.1" 200 531
+INFO 2019-05-06 17:02:08,049 basehttp 124 "GET / HTTP/1.1" 200 124945
+WARNING 2019-05-06 17:02:08,276 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 17:02:08,277 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6749
+INFO 2019-05-06 17:02:11,143 basehttp 124 "GET /list/115/1/ HTTP/1.1" 200 19232
+WARNING 2019-05-06 17:02:11,201 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 17:02:11,203 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6749
+INFO 2019-05-06 17:02:11,208 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 585
+INFO 2019-05-06 17:02:12,936 utils 99 <QuerySet [<GoodsChannel: 手机>]>
+INFO 2019-05-06 17:02:12,973 basehttp 124 "GET /detail/7/ HTTP/1.1" 200 17962
+WARNING 2019-05-06 17:02:12,986 base 152 Not Found: /detail/static/images/goods/goods001.jpg
+WARNING 2019-05-06 17:02:12,987 basehttp 124 "GET /detail/static/images/goods/goods001.jpg HTTP/1.1" 404 6827
+WARNING 2019-05-06 17:02:12,999 base 152 Not Found: /detail/static/images/goods/goods002.jpg
+WARNING 2019-05-06 17:02:12,999 basehttp 124 "GET /detail/static/images/goods/goods002.jpg HTTP/1.1" 404 6827
+WARNING 2019-05-06 17:02:13,037 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 17:02:13,045 base 152 Not Found: /comment/7/
+WARNING 2019-05-06 17:02:13,046 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6749
+INFO 2019-05-06 17:02:13,049 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 585
+INFO 2019-05-06 17:02:13,053 basehttp 124 "POST /browse_histories/ HTTP/1.1" 200 29
+WARNING 2019-05-06 17:02:13,055 basehttp 124 "GET /comment/7/ HTTP/1.1" 404 6740
+INFO 2019-05-06 17:02:13,064 basehttp 124 "POST /detail/visit/115/ HTTP/1.1" 200 30
+INFO 2019-05-06 17:02:14,741 basehttp 124 "GET / HTTP/1.1" 200 124945
+WARNING 2019-05-06 17:02:14,978 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 17:02:14,978 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6749
+INFO 2019-05-06 17:02:16,287 basehttp 124 "GET /info/ HTTP/1.1" 200 6286
+INFO 2019-05-06 17:02:16,342 basehttp 124 "GET /browse_histories/ HTTP/1.1" 200 776
+INFO 2019-05-06 17:02:20,543 basehttp 124 "GET / HTTP/1.1" 200 124945
+WARNING 2019-05-06 17:02:20,689 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 17:02:20,689 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6749
+INFO 2019-05-06 17:02:23,008 basehttp 124 "GET /list/157/1/ HTTP/1.1" 200 16986
+WARNING 2019-05-06 17:02:23,059 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 17:02:23,062 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6749
+INFO 2019-05-06 17:02:23,065 basehttp 124 "GET /hot/157/ HTTP/1.1" 200 480
+INFO 2019-05-06 17:02:28,480 utils 99 <QuerySet [<GoodsChannel: 电脑>]>
+INFO 2019-05-06 17:02:28,497 basehttp 124 "GET /detail/1/ HTTP/1.1" 200 18010
+WARNING 2019-05-06 17:02:28,511 base 152 Not Found: /detail/static/images/goods/goods001.jpg
+WARNING 2019-05-06 17:02:28,511 basehttp 124 "GET /detail/static/images/goods/goods001.jpg HTTP/1.1" 404 6827
+WARNING 2019-05-06 17:02:28,522 base 152 Not Found: /detail/static/images/goods/goods002.jpg
+WARNING 2019-05-06 17:02:28,523 basehttp 124 "GET /detail/static/images/goods/goods002.jpg HTTP/1.1" 404 6827
+WARNING 2019-05-06 17:02:28,554 base 152 Not Found: /detail/static/images/goods/goods001.jpg
+WARNING 2019-05-06 17:02:28,556 basehttp 124 "GET /detail/static/images/goods/goods001.jpg HTTP/1.1" 404 6827
+WARNING 2019-05-06 17:02:28,565 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 17:02:28,570 base 152 Not Found: /comment/1/
+WARNING 2019-05-06 17:02:28,571 basehttp 124 "GET /comment/1/ HTTP/1.1" 404 6740
+WARNING 2019-05-06 17:02:28,572 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6749
+INFO 2019-05-06 17:02:28,579 basehttp 124 "POST /browse_histories/ HTTP/1.1" 200 29
+INFO 2019-05-06 17:02:28,581 basehttp 124 "GET /hot/157/ HTTP/1.1" 200 480
+INFO 2019-05-06 17:02:28,584 basehttp 124 "POST /detail/visit/157/ HTTP/1.1" 200 30
+INFO 2019-05-06 17:02:36,424 basehttp 124 "GET /list/173/1/ HTTP/1.1" 200 15558
+WARNING 2019-05-06 17:02:36,471 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 17:02:36,473 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6749
+INFO 2019-05-06 17:02:36,477 basehttp 124 "GET /hot/173/ HTTP/1.1" 200 46
+INFO 2019-05-06 17:02:48,908 basehttp 124 "GET /list/115/1/ HTTP/1.1" 200 19232
+WARNING 2019-05-06 17:02:48,965 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 17:02:48,966 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6749
+INFO 2019-05-06 17:02:48,972 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 585
+INFO 2019-05-06 17:02:50,517 basehttp 124 "GET /list/115/3/?sort={{%20sort%20}} HTTP/1.1" 200 18556
+WARNING 2019-05-06 17:02:50,566 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 17:02:50,568 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6749
+INFO 2019-05-06 17:02:50,573 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 585
+INFO 2019-05-06 17:03:00,482 utils 99 <QuerySet [<GoodsChannel: 手机>]>
+INFO 2019-05-06 17:03:00,509 basehttp 124 "GET /detail/14/ HTTP/1.1" 200 17984
+WARNING 2019-05-06 17:03:00,522 base 152 Not Found: /detail/static/images/goods/goods001.jpg
+WARNING 2019-05-06 17:03:00,522 basehttp 124 "GET /detail/static/images/goods/goods001.jpg HTTP/1.1" 404 6827
+WARNING 2019-05-06 17:03:00,536 base 152 Not Found: /detail/static/images/goods/goods002.jpg
+WARNING 2019-05-06 17:03:00,536 basehttp 124 "GET /detail/static/images/goods/goods002.jpg HTTP/1.1" 404 6827
+WARNING 2019-05-06 17:03:00,583 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 17:03:00,588 base 152 Not Found: /comment/14/
+WARNING 2019-05-06 17:03:00,592 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6749
+WARNING 2019-05-06 17:03:00,592 basehttp 124 "GET /comment/14/ HTTP/1.1" 404 6743
+INFO 2019-05-06 17:03:00,599 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 585
+INFO 2019-05-06 17:03:00,600 basehttp 124 "POST /browse_histories/ HTTP/1.1" 200 29
+INFO 2019-05-06 17:03:00,603 basehttp 124 "POST /detail/visit/115/ HTTP/1.1" 200 30
+INFO 2019-05-06 17:03:03,100 basehttp 124 "GET / HTTP/1.1" 200 124945
+WARNING 2019-05-06 17:03:03,329 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 17:03:03,329 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6749
+INFO 2019-05-06 17:03:04,216 basehttp 124 "GET /info/ HTTP/1.1" 200 6286
+INFO 2019-05-06 17:03:04,277 basehttp 124 "GET /browse_histories/ HTTP/1.1" 200 1274
+INFO 2019-05-06 17:04:05,263 basehttp 124 "GET /info/ HTTP/1.1" 200 6286
+INFO 2019-05-06 17:04:05,330 basehttp 124 "GET /browse_histories/ HTTP/1.1" 200 1274
+INFO 2019-05-06 17:07:30,605 basehttp 124 "GET /info/ HTTP/1.1" 200 6282
+INFO 2019-05-06 17:07:30,663 basehttp 124 "GET /browse_histories/ HTTP/1.1" 200 1274
+INFO 2019-05-06 17:07:31,090 basehttp 124 "GET /info/ HTTP/1.1" 200 6282
+INFO 2019-05-06 17:07:31,152 basehttp 124 "GET /browse_histories/ HTTP/1.1" 200 1274
+INFO 2019-05-06 17:07:31,250 basehttp 124 "GET /info/ HTTP/1.1" 200 6282
+INFO 2019-05-06 17:07:31,301 basehttp 124 "GET /browse_histories/ HTTP/1.1" 200 1274
+INFO 2019-05-06 17:07:31,399 basehttp 124 "GET /info/ HTTP/1.1" 200 6282
+INFO 2019-05-06 17:07:31,456 basehttp 124 "GET /browse_histories/ HTTP/1.1" 200 1274
+INFO 2019-05-06 17:07:31,551 basehttp 124 "GET /info/ HTTP/1.1" 200 6282
+INFO 2019-05-06 17:07:31,620 basehttp 124 "GET /browse_histories/ HTTP/1.1" 200 1274
+WARNING 2019-05-06 17:07:36,244 base 152 Not Found: /goods/14.html
+WARNING 2019-05-06 17:07:36,244 basehttp 124 "GET /goods/14.html HTTP/1.1" 404 6749
+INFO 2019-05-06 17:07:41,130 basehttp 124 "GET /info/ HTTP/1.1" 200 6286
+INFO 2019-05-06 17:07:41,210 basehttp 124 "GET /browse_histories/ HTTP/1.1" 200 1274
+INFO 2019-05-06 17:07:41,821 basehttp 124 "GET /info/ HTTP/1.1" 200 6286
+INFO 2019-05-06 17:07:41,876 basehttp 124 "GET /browse_histories/ HTTP/1.1" 200 1274
+INFO 2019-05-06 17:08:00,636 basehttp 124 "GET /info/ HTTP/1.1" 200 6284
+INFO 2019-05-06 17:08:00,726 basehttp 124 "GET /browse_histories/ HTTP/1.1" 200 1274
+INFO 2019-05-06 17:11:46,186 basehttp 124 "GET / HTTP/1.1" 200 124945
+WARNING 2019-05-06 17:11:46,402 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 17:11:46,403 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6749
+INFO 2019-05-06 17:11:49,938 basehttp 124 "GET /list/115/1/ HTTP/1.1" 200 19232
+WARNING 2019-05-06 17:11:50,000 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 17:11:50,002 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6749
+INFO 2019-05-06 17:11:50,008 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 585
+INFO 2019-05-06 17:11:52,399 basehttp 124 "GET /list/115/2/?sort={{%20sort%20}} HTTP/1.1" 200 19287
+WARNING 2019-05-06 17:11:52,452 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 17:11:52,452 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6749
+INFO 2019-05-06 17:11:52,459 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 585
+INFO 2019-05-06 17:11:54,617 utils 99 <QuerySet [<GoodsChannel: 手机>]>
+INFO 2019-05-06 17:11:54,658 basehttp 124 "GET /detail/9/ HTTP/1.1" 200 17982
+WARNING 2019-05-06 17:11:54,672 base 152 Not Found: /detail/static/images/goods/goods001.jpg
+WARNING 2019-05-06 17:11:54,672 basehttp 124 "GET /detail/static/images/goods/goods001.jpg HTTP/1.1" 404 6827
+WARNING 2019-05-06 17:11:54,685 base 152 Not Found: /detail/static/images/goods/goods002.jpg
+WARNING 2019-05-06 17:11:54,686 basehttp 124 "GET /detail/static/images/goods/goods002.jpg HTTP/1.1" 404 6827
+WARNING 2019-05-06 17:11:54,718 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 17:11:54,725 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6749
+WARNING 2019-05-06 17:11:54,725 base 152 Not Found: /comment/9/
+WARNING 2019-05-06 17:11:54,727 basehttp 124 "GET /comment/9/ HTTP/1.1" 404 6740
+INFO 2019-05-06 17:11:54,733 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 585
+INFO 2019-05-06 17:11:54,739 basehttp 124 "POST /browse_histories/ HTTP/1.1" 200 29
+INFO 2019-05-06 17:11:54,743 basehttp 124 "POST /detail/visit/115/ HTTP/1.1" 200 30
+INFO 2019-05-06 17:11:59,205 basehttp 124 "GET / HTTP/1.1" 200 124945
+WARNING 2019-05-06 17:11:59,443 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 17:11:59,444 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6749
+INFO 2019-05-06 17:12:00,701 basehttp 124 "GET /info/ HTTP/1.1" 200 6284
+INFO 2019-05-06 17:12:00,756 basehttp 124 "GET /browse_histories/ HTTP/1.1" 200 1310
+INFO 2019-05-06 19:09:56,104 basehttp 124 "GET /info/ HTTP/1.1" 200 6284
+INFO 2019-05-06 19:09:56,171 basehttp 124 "GET /browse_histories/ HTTP/1.1" 200 1310
+INFO 2019-05-06 19:09:57,272 basehttp 124 "GET / HTTP/1.1" 200 124945
+WARNING 2019-05-06 19:09:57,475 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 19:09:57,475 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6749
+INFO 2019-05-06 19:10:03,386 basehttp 124 "GET /list/115/1/ HTTP/1.1" 200 19232
+WARNING 2019-05-06 19:10:03,446 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 19:10:03,448 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6749
+INFO 2019-05-06 19:10:03,452 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 585
+INFO 2019-05-06 19:10:07,062 utils 132 {'goods': <Goods: Apple iPhone 8 Plus>, 'goods_specs': <QuerySet [<GoodsSpecification: Apple iPhone 8 Plus: 颜色>, <GoodsSpecification: Apple iPhone 8 Plus: 内存>]>, 'sku': <SKU: 3: Apple iPhone 8 Plus (A1864) 64GB 金色 移动联通电信4G手机>}
+INFO 2019-05-06 19:10:07,078 basehttp 124 "GET /detail/3/ HTTP/1.1" 200 17962
+WARNING 2019-05-06 19:10:07,091 base 152 Not Found: /detail/static/images/goods/goods001.jpg
+WARNING 2019-05-06 19:10:07,091 basehttp 124 "GET /detail/static/images/goods/goods001.jpg HTTP/1.1" 404 6827
+WARNING 2019-05-06 19:10:07,104 base 152 Not Found: /detail/static/images/goods/goods002.jpg
+WARNING 2019-05-06 19:10:07,105 basehttp 124 "GET /detail/static/images/goods/goods002.jpg HTTP/1.1" 404 6827
+WARNING 2019-05-06 19:10:07,149 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 19:10:07,150 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6749
+WARNING 2019-05-06 19:10:07,155 base 152 Not Found: /comment/3/
+WARNING 2019-05-06 19:10:07,157 basehttp 124 "GET /comment/3/ HTTP/1.1" 404 6740
+INFO 2019-05-06 19:10:07,160 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 585
+INFO 2019-05-06 19:10:07,165 basehttp 124 "POST /browse_histories/ HTTP/1.1" 200 29
+INFO 2019-05-06 19:10:07,177 basehttp 124 "POST /detail/visit/115/ HTTP/1.1" 200 30
+INFO 2019-05-06 19:11:32,915 basehttp 124 "GET / HTTP/1.1" 200 124945
+WARNING 2019-05-06 19:11:33,080 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 19:11:33,081 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6749
+INFO 2019-05-06 19:11:39,693 basehttp 124 "GET /list/115/1/ HTTP/1.1" 200 19232
+WARNING 2019-05-06 19:11:39,746 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 19:11:39,748 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6749
+INFO 2019-05-06 19:11:39,753 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 585
+INFO 2019-05-06 19:11:43,886 utils 132 {'goods': <Goods: Apple iPhone 8 Plus>, 'goods_specs': <QuerySet [<GoodsSpecification: Apple iPhone 8 Plus: 颜色>, <GoodsSpecification: Apple iPhone 8 Plus: 内存>]>, 'sku': <SKU: 3: Apple iPhone 8 Plus (A1864) 64GB 金色 移动联通电信4G手机>}
+INFO 2019-05-06 19:11:43,900 basehttp 124 "GET /detail/3/ HTTP/1.1" 200 17962
+WARNING 2019-05-06 19:11:43,916 base 152 Not Found: /detail/static/images/goods/goods001.jpg
+WARNING 2019-05-06 19:11:43,916 basehttp 124 "GET /detail/static/images/goods/goods001.jpg HTTP/1.1" 404 6827
+WARNING 2019-05-06 19:11:43,930 base 152 Not Found: /detail/static/images/goods/goods002.jpg
+WARNING 2019-05-06 19:11:43,931 basehttp 124 "GET /detail/static/images/goods/goods002.jpg HTTP/1.1" 404 6827
+WARNING 2019-05-06 19:11:43,975 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 19:11:43,981 base 152 Not Found: /comment/3/
+WARNING 2019-05-06 19:11:43,982 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6749
+WARNING 2019-05-06 19:11:43,983 basehttp 124 "GET /comment/3/ HTTP/1.1" 404 6740
+INFO 2019-05-06 19:11:43,990 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 585
+INFO 2019-05-06 19:11:43,992 basehttp 124 "POST /browse_histories/ HTTP/1.1" 200 29
+INFO 2019-05-06 19:11:44,000 basehttp 124 "POST /detail/visit/115/ HTTP/1.1" 200 30
+INFO 2019-05-06 19:13:13,846 basehttp 124 "GET / HTTP/1.1" 200 124945
+WARNING 2019-05-06 19:13:14,106 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 19:13:14,107 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6749
+INFO 2019-05-06 19:13:15,570 basehttp 124 "GET /list/115/1/ HTTP/1.1" 200 19232
+WARNING 2019-05-06 19:13:15,627 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 19:13:15,630 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6749
+INFO 2019-05-06 19:13:15,634 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 585
+INFO 2019-05-06 19:13:16,276 utils 132 {'goods': <Goods: Apple iPhone 8 Plus>, 'goods_specs': <QuerySet [<GoodsSpecification: Apple iPhone 8 Plus: 颜色>, <GoodsSpecification: Apple iPhone 8 Plus: 内存>]>, 'sku': <SKU: 3: Apple iPhone 8 Plus (A1864) 64GB 金色 移动联通电信4G手机>}
+INFO 2019-05-06 19:13:16,290 basehttp 124 "GET /detail/3/ HTTP/1.1" 200 17962
+WARNING 2019-05-06 19:13:16,306 base 152 Not Found: /detail/static/images/goods/goods001.jpg
+WARNING 2019-05-06 19:13:16,311 base 152 Not Found: /detail/static/images/goods/goods002.jpg
+WARNING 2019-05-06 19:13:16,312 basehttp 124 "GET /detail/static/images/goods/goods002.jpg HTTP/1.1" 404 6827
+WARNING 2019-05-06 19:13:16,312 basehttp 124 "GET /detail/static/images/goods/goods001.jpg HTTP/1.1" 404 6827
+WARNING 2019-05-06 19:13:16,346 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 19:13:16,351 base 152 Not Found: /comment/3/
+WARNING 2019-05-06 19:13:16,353 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6749
+WARNING 2019-05-06 19:13:16,354 basehttp 124 "GET /comment/3/ HTTP/1.1" 404 6740
+INFO 2019-05-06 19:13:16,359 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 585
+INFO 2019-05-06 19:13:16,367 basehttp 124 "POST /browse_histories/ HTTP/1.1" 200 29
+INFO 2019-05-06 19:13:16,372 basehttp 124 "POST /detail/visit/115/ HTTP/1.1" 200 30
+INFO 2019-05-06 19:15:30,254 basehttp 124 "GET / HTTP/1.1" 200 124945
+WARNING 2019-05-06 19:15:30,981 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 19:15:30,981 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6749
+INFO 2019-05-06 19:15:36,365 basehttp 124 "GET /list/115/1/ HTTP/1.1" 200 19232
+WARNING 2019-05-06 19:15:36,424 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 19:15:36,426 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6749
+INFO 2019-05-06 19:15:36,431 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 585
+INFO 2019-05-06 19:15:38,230 basehttp 124 "GET /detail/3/ HTTP/1.1" 200 17962
+WARNING 2019-05-06 19:15:38,243 base 152 Not Found: /detail/static/images/goods/goods001.jpg
+WARNING 2019-05-06 19:15:38,248 base 152 Not Found: /detail/static/images/goods/goods002.jpg
+WARNING 2019-05-06 19:15:38,248 basehttp 124 "GET /detail/static/images/goods/goods001.jpg HTTP/1.1" 404 6827
+WARNING 2019-05-06 19:15:38,249 basehttp 124 "GET /detail/static/images/goods/goods002.jpg HTTP/1.1" 404 6827
+WARNING 2019-05-06 19:15:38,284 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 19:15:38,290 base 152 Not Found: /comment/3/
+WARNING 2019-05-06 19:15:38,291 basehttp 124 "GET /comment/3/ HTTP/1.1" 404 6740
+WARNING 2019-05-06 19:15:38,292 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6749
+INFO 2019-05-06 19:15:38,298 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 585
+INFO 2019-05-06 19:15:38,302 basehttp 124 "POST /browse_histories/ HTTP/1.1" 200 29
+INFO 2019-05-06 19:15:38,310 basehttp 124 "POST /detail/visit/115/ HTTP/1.1" 200 30
+INFO 2019-05-06 19:15:46,778 basehttp 124 "GET /list/157/1/ HTTP/1.1" 200 16986
+WARNING 2019-05-06 19:15:46,826 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 19:15:46,829 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6749
+INFO 2019-05-06 19:15:46,833 basehttp 124 "GET /hot/157/ HTTP/1.1" 200 480
+INFO 2019-05-06 19:15:48,265 basehttp 124 "GET /detail/1/ HTTP/1.1" 200 18010
+WARNING 2019-05-06 19:15:48,279 base 152 Not Found: /detail/static/images/goods/goods001.jpg
+WARNING 2019-05-06 19:15:48,286 base 152 Not Found: /detail/static/images/goods/goods002.jpg
+WARNING 2019-05-06 19:15:48,287 basehttp 124 "GET /detail/static/images/goods/goods001.jpg HTTP/1.1" 404 6827
+WARNING 2019-05-06 19:15:48,287 basehttp 124 "GET /detail/static/images/goods/goods002.jpg HTTP/1.1" 404 6827
+WARNING 2019-05-06 19:15:48,326 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 19:15:48,332 base 152 Not Found: /comment/1/
+WARNING 2019-05-06 19:15:48,333 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6749
+WARNING 2019-05-06 19:15:48,333 basehttp 124 "GET /comment/1/ HTTP/1.1" 404 6740
+INFO 2019-05-06 19:15:48,340 basehttp 124 "GET /hot/157/ HTTP/1.1" 200 480
+INFO 2019-05-06 19:15:48,344 basehttp 124 "POST /browse_histories/ HTTP/1.1" 200 29
+INFO 2019-05-06 19:15:48,346 basehttp 124 "POST /detail/visit/157/ HTTP/1.1" 200 30
+INFO 2019-05-06 19:20:45,013 basehttp 124 "GET / HTTP/1.1" 200 124945
+WARNING 2019-05-06 19:20:45,362 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 19:20:45,362 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6749
+INFO 2019-05-06 19:20:47,104 basehttp 124 "GET / HTTP/1.1" 200 124945
+WARNING 2019-05-06 19:20:47,256 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 19:20:47,257 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6749
+INFO 2019-05-06 19:20:51,531 basehttp 124 "GET /list/115/1/ HTTP/1.1" 200 19232
+WARNING 2019-05-06 19:20:51,586 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 19:20:51,586 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6749
+INFO 2019-05-06 19:20:51,592 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 585
+INFO 2019-05-06 19:20:52,805 utils 97 <QuerySet [<GoodsChannel: 手机>]>
+INFO 2019-05-06 19:20:52,843 basehttp 124 "GET /detail/3/ HTTP/1.1" 200 17962
+WARNING 2019-05-06 19:20:52,857 base 152 Not Found: /detail/static/images/goods/goods001.jpg
+WARNING 2019-05-06 19:20:52,858 basehttp 124 "GET /detail/static/images/goods/goods001.jpg HTTP/1.1" 404 6827
+WARNING 2019-05-06 19:20:52,869 base 152 Not Found: /detail/static/images/goods/goods002.jpg
+WARNING 2019-05-06 19:20:52,870 basehttp 124 "GET /detail/static/images/goods/goods002.jpg HTTP/1.1" 404 6827
+WARNING 2019-05-06 19:20:52,902 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 19:20:52,904 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6749
+WARNING 2019-05-06 19:20:52,910 base 152 Not Found: /comment/3/
+WARNING 2019-05-06 19:20:52,912 basehttp 124 "GET /comment/3/ HTTP/1.1" 404 6740
+INFO 2019-05-06 19:20:52,917 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 585
+INFO 2019-05-06 19:20:52,924 basehttp 124 "POST /browse_histories/ HTTP/1.1" 200 29
+INFO 2019-05-06 19:20:52,929 basehttp 124 "POST /detail/visit/115/ HTTP/1.1" 200 30
+INFO 2019-05-06 21:12:07,317 basehttp 124 "GET / HTTP/1.1" 200 124945
+WARNING 2019-05-06 21:12:07,672 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 21:12:07,672 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6749
+INFO 2019-05-06 21:12:30,873 basehttp 124 "GET /list/115/1/ HTTP/1.1" 200 19232
+WARNING 2019-05-06 21:12:30,935 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 21:12:30,937 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6749
+INFO 2019-05-06 21:12:30,941 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 585
+INFO 2019-05-06 21:12:31,644 basehttp 124 "GET /detail/3/ HTTP/1.1" 200 17962
+WARNING 2019-05-06 21:12:31,659 base 152 Not Found: /detail/static/images/goods/goods001.jpg
+WARNING 2019-05-06 21:12:31,659 basehttp 124 "GET /detail/static/images/goods/goods001.jpg HTTP/1.1" 404 6827
+WARNING 2019-05-06 21:12:31,671 base 152 Not Found: /detail/static/images/goods/goods002.jpg
+WARNING 2019-05-06 21:12:31,672 basehttp 124 "GET /detail/static/images/goods/goods002.jpg HTTP/1.1" 404 6827
+WARNING 2019-05-06 21:12:31,709 base 152 Not Found: /detail/static/images/goods/goods001.jpg
+WARNING 2019-05-06 21:12:31,711 basehttp 124 "GET /detail/static/images/goods/goods001.jpg HTTP/1.1" 404 6827
+WARNING 2019-05-06 21:12:31,720 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 21:12:31,725 base 152 Not Found: /comment/3/
+WARNING 2019-05-06 21:12:31,726 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6749
+WARNING 2019-05-06 21:12:31,728 basehttp 124 "GET /comment/3/ HTTP/1.1" 404 6740
+INFO 2019-05-06 21:12:31,732 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 585
+INFO 2019-05-06 21:12:31,738 basehttp 124 "POST /browse_histories/ HTTP/1.1" 200 29
+INFO 2019-05-06 21:12:31,745 basehttp 124 "POST /detail/visit/115/ HTTP/1.1" 200 30
+INFO 2019-05-06 21:12:50,833 basehttp 124 "GET /detail/3/ HTTP/1.1" 200 17962
+WARNING 2019-05-06 21:12:50,849 base 152 Not Found: /detail/static/images/goods/goods001.jpg
+WARNING 2019-05-06 21:12:50,855 base 152 Not Found: /detail/static/images/goods/goods002.jpg
+WARNING 2019-05-06 21:12:50,855 basehttp 124 "GET /detail/static/images/goods/goods001.jpg HTTP/1.1" 404 6827
+WARNING 2019-05-06 21:12:50,856 basehttp 124 "GET /detail/static/images/goods/goods002.jpg HTTP/1.1" 404 6827
+WARNING 2019-05-06 21:12:50,905 base 152 Not Found: /detail/static/images/goods/goods001.jpg
+WARNING 2019-05-06 21:12:50,909 base 152 Not Found: /detail/static/images/goods/goods002.jpg
+WARNING 2019-05-06 21:12:50,910 basehttp 124 "GET /detail/static/images/goods/goods001.jpg HTTP/1.1" 404 6827
+WARNING 2019-05-06 21:12:50,913 basehttp 124 "GET /detail/static/images/goods/goods002.jpg HTTP/1.1" 404 6827
+WARNING 2019-05-06 21:12:50,921 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 21:12:50,926 base 152 Not Found: /comment/3/
+WARNING 2019-05-06 21:12:50,926 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6749
+WARNING 2019-05-06 21:12:50,927 basehttp 124 "GET /comment/3/ HTTP/1.1" 404 6740
+INFO 2019-05-06 21:12:50,934 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 585
+INFO 2019-05-06 21:12:50,941 basehttp 124 "POST /browse_histories/ HTTP/1.1" 200 29
+INFO 2019-05-06 21:12:50,944 basehttp 124 "POST /detail/visit/115/ HTTP/1.1" 200 30
+INFO 2019-05-06 21:12:51,672 basehttp 124 "GET /detail/3/ HTTP/1.1" 200 17962
+WARNING 2019-05-06 21:12:51,685 base 152 Not Found: /detail/static/images/goods/goods001.jpg
+WARNING 2019-05-06 21:12:51,686 basehttp 124 "GET /detail/static/images/goods/goods001.jpg HTTP/1.1" 404 6827
+WARNING 2019-05-06 21:12:51,692 base 152 Not Found: /detail/static/images/goods/goods002.jpg
+WARNING 2019-05-06 21:12:51,692 basehttp 124 "GET /detail/static/images/goods/goods002.jpg HTTP/1.1" 404 6827
+WARNING 2019-05-06 21:12:51,722 base 152 Not Found: /detail/static/images/goods/goods001.jpg
+WARNING 2019-05-06 21:12:51,725 basehttp 124 "GET /detail/static/images/goods/goods001.jpg HTTP/1.1" 404 6827
+WARNING 2019-05-06 21:12:51,733 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 21:12:51,738 base 152 Not Found: /comment/3/
+WARNING 2019-05-06 21:12:51,740 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6749
+WARNING 2019-05-06 21:12:51,741 basehttp 124 "GET /comment/3/ HTTP/1.1" 404 6740
+INFO 2019-05-06 21:12:51,758 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 585
+INFO 2019-05-06 21:12:51,760 basehttp 124 "POST /browse_histories/ HTTP/1.1" 200 29
+INFO 2019-05-06 21:12:51,775 basehttp 124 "POST /detail/visit/115/ HTTP/1.1" 200 30
+INFO 2019-05-06 21:12:51,900 basehttp 124 "GET /detail/3/ HTTP/1.1" 200 17962
+WARNING 2019-05-06 21:12:51,914 base 152 Not Found: /detail/static/images/goods/goods001.jpg
+WARNING 2019-05-06 21:12:51,920 base 152 Not Found: /detail/static/images/goods/goods002.jpg
+WARNING 2019-05-06 21:12:51,921 basehttp 124 "GET /detail/static/images/goods/goods001.jpg HTTP/1.1" 404 6827
+WARNING 2019-05-06 21:12:51,921 basehttp 124 "GET /detail/static/images/goods/goods002.jpg HTTP/1.1" 404 6827
+WARNING 2019-05-06 21:12:51,953 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 21:12:51,959 base 152 Not Found: /comment/3/
+WARNING 2019-05-06 21:12:51,961 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6749
+WARNING 2019-05-06 21:12:51,961 basehttp 124 "GET /comment/3/ HTTP/1.1" 404 6740
+INFO 2019-05-06 21:12:51,965 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 585
+INFO 2019-05-06 21:12:51,971 basehttp 124 "POST /browse_histories/ HTTP/1.1" 200 29
+INFO 2019-05-06 21:12:51,973 basehttp 124 "POST /detail/visit/115/ HTTP/1.1" 200 30
+INFO 2019-05-06 21:12:52,135 basehttp 124 "GET /detail/3/ HTTP/1.1" 200 17962
+WARNING 2019-05-06 21:12:52,149 base 152 Not Found: /detail/static/images/goods/goods001.jpg
+WARNING 2019-05-06 21:12:52,155 base 152 Not Found: /detail/static/images/goods/goods002.jpg
+WARNING 2019-05-06 21:12:52,156 basehttp 124 "GET /detail/static/images/goods/goods002.jpg HTTP/1.1" 404 6827
+WARNING 2019-05-06 21:12:52,156 basehttp 124 "GET /detail/static/images/goods/goods001.jpg HTTP/1.1" 404 6827
+WARNING 2019-05-06 21:12:52,193 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 21:12:52,197 base 152 Not Found: /comment/3/
+WARNING 2019-05-06 21:12:52,199 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6749
+WARNING 2019-05-06 21:12:52,201 basehttp 124 "GET /comment/3/ HTTP/1.1" 404 6740
+INFO 2019-05-06 21:12:52,209 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 585
+INFO 2019-05-06 21:12:52,211 basehttp 124 "POST /browse_histories/ HTTP/1.1" 200 29
+INFO 2019-05-06 21:12:52,221 basehttp 124 "POST /detail/visit/115/ HTTP/1.1" 200 30
+INFO 2019-05-06 21:12:52,366 basehttp 124 "GET /detail/3/ HTTP/1.1" 200 17962
+WARNING 2019-05-06 21:12:52,378 base 152 Not Found: /detail/static/images/goods/goods001.jpg
+WARNING 2019-05-06 21:12:52,383 base 152 Not Found: /detail/static/images/goods/goods002.jpg
+WARNING 2019-05-06 21:12:52,383 basehttp 124 "GET /detail/static/images/goods/goods002.jpg HTTP/1.1" 404 6827
+WARNING 2019-05-06 21:12:52,384 basehttp 124 "GET /detail/static/images/goods/goods001.jpg HTTP/1.1" 404 6827
+WARNING 2019-05-06 21:12:52,410 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 21:12:52,415 base 152 Not Found: /comment/3/
+WARNING 2019-05-06 21:12:52,416 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6749
+WARNING 2019-05-06 21:12:52,418 basehttp 124 "GET /comment/3/ HTTP/1.1" 404 6740
+INFO 2019-05-06 21:12:52,427 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 585
+INFO 2019-05-06 21:12:52,435 basehttp 124 "POST /browse_histories/ HTTP/1.1" 200 29
+INFO 2019-05-06 21:12:52,446 basehttp 124 "POST /detail/visit/115/ HTTP/1.1" 200 30
+INFO 2019-05-06 21:12:52,578 basehttp 124 "GET /detail/3/ HTTP/1.1" 200 17962
+WARNING 2019-05-06 21:12:52,590 base 152 Not Found: /detail/static/images/goods/goods001.jpg
+WARNING 2019-05-06 21:12:52,594 base 152 Not Found: /detail/static/images/goods/goods002.jpg
+WARNING 2019-05-06 21:12:52,595 basehttp 124 "GET /detail/static/images/goods/goods001.jpg HTTP/1.1" 404 6827
+WARNING 2019-05-06 21:12:52,595 basehttp 124 "GET /detail/static/images/goods/goods002.jpg HTTP/1.1" 404 6827
+WARNING 2019-05-06 21:12:52,627 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 21:12:52,632 base 152 Not Found: /comment/3/
+WARNING 2019-05-06 21:12:52,634 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6749
+WARNING 2019-05-06 21:12:52,635 basehttp 124 "GET /comment/3/ HTTP/1.1" 404 6740
+INFO 2019-05-06 21:12:52,646 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 585
+INFO 2019-05-06 21:12:52,647 basehttp 124 "POST /browse_histories/ HTTP/1.1" 200 29
+INFO 2019-05-06 21:12:52,660 basehttp 124 "POST /detail/visit/115/ HTTP/1.1" 200 30
+INFO 2019-05-06 21:12:52,796 basehttp 124 "GET /detail/3/ HTTP/1.1" 200 17962
+WARNING 2019-05-06 21:12:52,808 base 152 Not Found: /detail/static/images/goods/goods001.jpg
+WARNING 2019-05-06 21:12:52,813 base 152 Not Found: /detail/static/images/goods/goods002.jpg
+WARNING 2019-05-06 21:12:52,813 basehttp 124 "GET /detail/static/images/goods/goods002.jpg HTTP/1.1" 404 6827
+WARNING 2019-05-06 21:12:52,814 basehttp 124 "GET /detail/static/images/goods/goods001.jpg HTTP/1.1" 404 6827
+WARNING 2019-05-06 21:12:52,846 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 21:12:52,851 base 152 Not Found: /comment/3/
+WARNING 2019-05-06 21:12:52,851 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6749
+WARNING 2019-05-06 21:12:52,853 basehttp 124 "GET /comment/3/ HTTP/1.1" 404 6740
+INFO 2019-05-06 21:12:52,861 basehttp 124 "POST /browse_histories/ HTTP/1.1" 200 29
+INFO 2019-05-06 21:12:52,861 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 585
+INFO 2019-05-06 21:12:52,864 basehttp 124 "POST /detail/visit/115/ HTTP/1.1" 200 30
+INFO 2019-05-06 21:12:53,661 basehttp 124 "GET /detail/3/ HTTP/1.1" 200 17962
+WARNING 2019-05-06 21:12:53,676 base 152 Not Found: /detail/static/images/goods/goods001.jpg
+WARNING 2019-05-06 21:12:53,682 base 152 Not Found: /detail/static/images/goods/goods002.jpg
+WARNING 2019-05-06 21:12:53,682 basehttp 124 "GET /detail/static/images/goods/goods001.jpg HTTP/1.1" 404 6827
+WARNING 2019-05-06 21:12:53,682 basehttp 124 "GET /detail/static/images/goods/goods002.jpg HTTP/1.1" 404 6827
+WARNING 2019-05-06 21:12:53,706 base 152 Not Found: /detail/static/images/goods/goods001.jpg
+WARNING 2019-05-06 21:12:53,706 basehttp 124 "GET /detail/static/images/goods/goods001.jpg HTTP/1.1" 404 6827
+WARNING 2019-05-06 21:12:53,716 base 152 Not Found: /carts/simple/
+WARNING 2019-05-06 21:12:53,717 basehttp 124 "GET /carts/simple/ HTTP/1.1" 404 6749
+WARNING 2019-05-06 21:12:53,722 base 152 Not Found: /comment/3/
+WARNING 2019-05-06 21:12:53,723 basehttp 124 "GET /comment/3/ HTTP/1.1" 404 6740
+INFO 2019-05-06 21:12:53,727 basehttp 124 "GET /hot/115/ HTTP/1.1" 200 585
+INFO 2019-05-06 21:12:53,732 basehttp 124 "POST /browse_histories/ HTTP/1.1" 200 29
+INFO 2019-05-06 21:12:53,734 basehttp 124 "POST /detail/visit/115/ HTTP/1.1" 200 30

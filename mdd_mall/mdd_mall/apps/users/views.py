@@ -11,6 +11,7 @@ from django.views import View
 from django_redis import get_redis_connection
 
 from celery_tasks.email.tasks import send_verify_email
+from goods.models import SKU
 from .utils import generate_verify_email_url, check_verify_email_token
 from mdd_mall.utils.views import LoginRequiredMixin, LoginRequiredJSONMixin
 from .models import User, Address
@@ -393,3 +394,40 @@ class ChangePasswordView(LoginRequiredMixin,View):
             response=redirect(reverse('users:login'))
             response.delete_cookie('username')
             return response
+
+class UserBrowseHistory(LoginRequiredJSONMixin,View):
+    def post(self,request):
+        json_dict = json.loads(request.body.decode())
+        sku_id = json_dict.get('sku_id')
+        try:
+            SKU.objects.get(id=sku_id)
+        except:
+            return http.HttpResponseForbidden('sku不存在')
+
+        redis_conn = get_redis_connection('history')
+        pipeline = redis_conn.pipeline()
+        userid=request.user.id
+
+        pipeline.lrem('history_%s' % userid,0,sku_id)
+        pipeline.lpush('history_%s' % userid,sku_id)
+        pipeline.ltrim('history_%s' % userid, 0, 4)
+        pipeline.execute()
+        return http.JsonResponse({'code': RETCODE.OK, 'errmsg': 'OK'})
+
+    def get(self,request):
+        userid=request.user.id
+
+        conn = get_redis_connection('history')
+
+        sku_list = conn.lrange('history_%s' % userid, 0, -1)
+        skus=[]
+        for sku_id in sku_list:
+            sku=SKU.objects.get(id=sku_id)
+            skus.append({
+                'id':sku.id,
+                'name':sku.name,
+                'default_image_url':sku.default_image_url,
+                'price':sku.price
+            })
+
+        return http.JsonResponse({'code':'ok','errmsg':'ok','skus':skus})

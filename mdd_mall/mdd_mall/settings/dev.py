@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'areas',
     'contents',
     'goods',
+    'haystack',
 
 ]
 
@@ -97,7 +98,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'HOST': '127.0.0.1',
         'PORT': 3306,  # 数据库端口
-        'USER': 'mike',  # 数据库用户名
+        'USER': 'root',  # 数据库用户名
         'PASSWORD': '123456',  # 数据库用户密码
         'NAME': 'mddmall'  # 数据库名字
     }
@@ -155,6 +156,20 @@ CACHES = {
     "verify_code": {  # 验证码
         "BACKEND": "django_redis.cache.RedisCache",
         "LOCATION": "redis://127.0.0.1:6379/2",
+        "OPTIONS": {
+            "CLIENT_CLASS": "django_redis.client.DefaultClient",
+        }
+    },
+    "history": {  # 用户浏览记录
+        "BACKEND": "django_redis.cache.RedisCache",
+        "LOCATION": "redis://127.0.0.1:6379/3",
+        "OPTIONS": {
+            "CLIENT_CLASS": "django_redis.client.DefaultClient",
+        }
+    },
+    "carts": {
+        "BACKEND": "django_redis.cache.RedisCache",
+        "LOCATION": "redis://127.0.0.1:6379/4",
         "OPTIONS": {
             "CLIENT_CLASS": "django_redis.client.DefaultClient",
         }
@@ -230,11 +245,27 @@ CORS_ORIGIN_WHITELIST = ('127.0.0.1:8080',
                          'www.meiduo.site:8000',
                          'www.meiduo.site',)
 
-
-EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend' # 指定邮件后端
-EMAIL_HOST = 'smtp.163.com' # 发邮件主机
-EMAIL_PORT = 25 # 发邮件端口
-EMAIL_HOST_USER = '13818510759@163.com' # 授权的邮箱
-EMAIL_HOST_PASSWORD = 'chenmike19891105' # 邮箱授权时获得的密码，非注册登录密码
-EMAIL_FROM = '美多商城<13818510759@163.com>' # 发件人抬头
+EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'  # 指定邮件后端
+EMAIL_HOST = 'smtp.163.com'  # 发邮件主机
+EMAIL_PORT = 25  # 发邮件端口
+EMAIL_HOST_USER = '13818510759@163.com'  # 授权的邮箱
+EMAIL_HOST_PASSWORD = 'chenmike19891105'  # 邮箱授权时获得的密码，非注册登录密码
+EMAIL_FROM = '美多商城<13818510759@163.com>'  # 发件人抬头
 EMAIL_VERIFY_URL = 'http://www.meiduo.site:8000/emails/verification/'
+
+FDFS_CLIENT_CONF = os.path.join(BASE_DIR, 'utils/fastdfs/client.conf')
+FDFS_URL = 'http://192.168.17.129:8888/'
+DEFAULT_FILE_STORAGE = 'mdd_mall.utils.fastdfs.fastdfs_storage.FastDFSStorage'
+
+HAYSTACK_CONNECTIONS = {
+    'default': {
+        'ENGINE': 'haystack.backends.elasticsearch_backend.ElasticsearchSearchEngine',
+        'URL': 'http://192.168.17.129:9200/',  # Elasticsearch服务器ip地址，端口号固定为9200
+        'INDEX_NAME': 'mddmall',  # Elasticsearch建立的索引库的名称
+    },
+}
+
+# 当添加、修改、删除数据时，自动生成索引
+HAYSTACK_SIGNAL_PROCESSOR = 'haystack.signals.RealtimeSignalProcessor'
+
+HAYSTACK_SEARCH_RESULTS_PER_PAGE = 5
